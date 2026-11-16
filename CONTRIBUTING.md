@@ -6,7 +6,7 @@ Maintainers verify attribution, remove duplicate media by SHA-256, archive a com
 
 Keep Max and Max-Preview distinct. Anonymous models and unconfirmed model claims stay in the research queue. A title or task description is not a complete original prompt. Keep unavailable prompts explicit.
 
-Select six starting points across distinct uses and creators, checking visible result quality, readable posters and model/version consistency. Preserve the full catalog below. Do not select solely by likes or repost counts.
+Select six starting points across distinct uses and creators, checking visible result quality, readable posters and model/version consistency. Keep every case discoverable: show each cover once, with featured cases linked from their category instead of repeated. Do not select solely by likes or repost counts.
 
 Run `npm run build && npm test`, then sync the website catalog and verify playback, source attribution, mobile layout and the six featured destinations. Publish the website routes before promoting new README links.
 
@@ -14,4 +14,8 @@ No automated posting is part of this repository. Share a specific case with an h
 
 ## README presentation
 
-Keep a real-example cover in `assets/readme-cover.png` (the reproducible 1600 × 760 layout is `assets/cover-layout.html`). Store each credited source poster in `assets/posters/<case-id>.jpg`. The generator renders six starting points and a complete image gallery grouped by use. Every image and playback action leads to the corresponding BeatAPI page; creator links remain attribution. Do not replace the visual catalog with a metadata-only table.
+Keep a real-example cover in `assets/readme-cover.png` (the reproducible 1600 × 760 layout is `assets/cover-layout.html`). Store each credited source poster in `assets/posters/<case-id>.jpg`. The generator renders six highlights in a three-column grid, followed by the remaining cases grouped by use. Category counts include highlights; featured cases have text links within their category. The directory appears before the highlights, and the smaller website screenshot sits in the usage guide. Keep model variant, tools and duration on one compact line, followed by the prompt/case-note link and creator credit. Every image and playback action leads to the corresponding BeatAPI page; creator links remain attribution. Do not replace the visual catalog with a metadata-only table.
+
+## Maintenance
+
+Verify the source → archive the original recording and poster → verify prompt text → sync the site case → review the six highlights → run `npm run build && npm test`. Update both README languages through `scripts/build.mjs`; do not edit the generated files directly. Update the dated README note only when its description reflects a real collection update.
