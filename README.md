@@ -29,6 +29,12 @@ Animations, architecture, 3D scenes and games made through creative coding with 
 
 **[Watch every case on our site →](https://beatapi.io/qwen4-videos?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos)**
 
+## Watch and copy on BeatAPI
+
+<a href="https://beatapi.io/prompts/qwen4/fisherman-oil-portrait-932340?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><img src="./assets/site-detail-preview.png" alt="Qwen 4 detail preview: large player, compact facts and original prompt" width="100%" /></a>
+
+Website review preview: watch the original recording on the left, check model details and copy a published prompt on the right.
+
 ## Browse by use
 
 [Architecture & building](#architecture) (4) · [Animation & explainers](#animation) (10) · [3D worlds & games](#worlds) (6) · [Workflow comparisons](#workflows) (1)

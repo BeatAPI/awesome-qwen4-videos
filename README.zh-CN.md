@@ -29,6 +29,12 @@
 
 **[在本站浏览全部案例 →](https://beatapi.io/zh/qwen4-videos?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos)**
 
+## 站内观看与提示词
+
+<a href="https://beatapi.io/zh/prompts/qwen4/fisherman-oil-portrait-932340?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><img src="./assets/site-detail-preview.png" alt="千问 4 视频详情预览：大播放器、紧凑信息与原始提示词" width="100%" /></a>
+
+网站审核预览：左侧观看原视频，右侧查看模型信息并复制公开提示词。
+
 ## 按用途浏览
 
 [建筑与搭建](#architecture) (4) · [动画与讲解](#animation) (10) · [三维场景与游戏](#worlds) (6) · [工作流对照](#workflows) (1)
