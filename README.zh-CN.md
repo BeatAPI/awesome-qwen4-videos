@@ -10,8 +10,6 @@
 
 最近更新 · 2026-11-16：整理 21 个案例，精选六例，按用途分类。
 
-> 网站页面正在审核，站内播放入口将在审核后上线。
-
 ## 目录
 
 - [精选六例](#highlights)
@@ -126,9 +124,9 @@
 2. 有公开提示词时，可在详情页复制，或打开仓库内的「提示词」。
 3. 按作者提供的工具、素材和步骤尝试；未公开完整提示词的案例保留为灵感参考。
 
-<p align="center"><a href="https://beatapi.io/zh/prompts/qwen4/fisherman-oil-portrait-932340?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><img src="./assets/site-detail-preview.png" alt="BeatAPI 详情页审核预览：左侧视频，右侧模型信息与提示词" width="680" /></a></p>
+<p align="center"><a href="https://beatapi.io/zh/prompts/qwen4/fisherman-oil-portrait-932340?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><img src="./assets/site-detail-preview.png" alt="BeatAPI 详情页：左侧视频，右侧模型信息与提示词" width="680" /></a></p>
 
-*站内详情页审核预览。*
+*在 BeatAPI 观看原视频，并复制作者公开的提示词。*
 
 <a id="credits"></a>
 

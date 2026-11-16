@@ -84,8 +84,6 @@ ${counts}
 
 ${zh?'最近更新 · 2026-11-16：整理 21 个案例，精选六例，按用途分类。':'Latest update · 2026-11-16: 21 cases organized by use, with six highlights.'}
 
-${zh?'> 网站页面正在审核，站内播放入口将在审核后上线。':'> Website launch review is in progress. On-site playback links will become available after approval.'}
-
 ## ${zh?'目录':'Contents'}
 
 ${contents}
@@ -106,9 +104,9 @@ ${catalog}
 
 ${zh?'1. 点击作品封面或标题，在 BeatAPI 查看对应案例的视频与模型信息。\n2. 有公开提示词时，可在详情页复制，或打开仓库内的「提示词」。\n3. 按作者提供的工具、素材和步骤尝试；未公开完整提示词的案例保留为灵感参考。':'1. Open a cover or title to view the video and model details on BeatAPI.\n2. Copy a published prompt on the detail page, or open its “Prompt” link in this repository.\n3. Follow the creator’s tools, assets and instructions. Cases without a published prompt remain references for inspiration.'}
 
-<p align="center"><a href="${escape(owned('/prompts/qwen4/fisherman-oil-portrait-932340',zh))}"><img src="./assets/site-detail-preview.png" alt="${zh?'BeatAPI 详情页审核预览：左侧视频，右侧模型信息与提示词':'BeatAPI detail review preview: video, model information and prompt'}" width="680" /></a></p>
+<p align="center"><a href="${escape(owned('/prompts/qwen4/fisherman-oil-portrait-932340',zh))}"><img src="./assets/site-detail-preview.png" alt="${zh?'BeatAPI 详情页：左侧视频，右侧模型信息与提示词':'BeatAPI detail page: video, model information and prompt'}" width="680" /></a></p>
 
-${zh?'*站内详情页审核预览。*':'*Website detail page shown in its review version.*'}
+${zh?'*在 BeatAPI 观看原视频，并复制作者公开的提示词。*':'*Watch the original recording and copy the creator-published prompt on BeatAPI.*'}
 
 <a id="credits"></a>
 

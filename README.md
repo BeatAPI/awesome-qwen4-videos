@@ -10,8 +10,6 @@ Animations, architecture, 3D scenes and games made through creative coding with 
 
 Latest update · 2026-11-16: 21 cases organized by use, with six highlights.
 
-> Website launch review is in progress. On-site playback links will become available after approval.
-
 ## Contents
 
 - [Six highlights](#highlights)
@@ -126,9 +124,9 @@ Featured in this category：[Floating moss garden in mist and rain](https://beat
 2. Copy a published prompt on the detail page, or open its “Prompt” link in this repository.
 3. Follow the creator’s tools, assets and instructions. Cases without a published prompt remain references for inspiration.
 
-<p align="center"><a href="https://beatapi.io/prompts/qwen4/fisherman-oil-portrait-932340?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><img src="./assets/site-detail-preview.png" alt="BeatAPI detail review preview: video, model information and prompt" width="680" /></a></p>
+<p align="center"><a href="https://beatapi.io/prompts/qwen4/fisherman-oil-portrait-932340?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><img src="./assets/site-detail-preview.png" alt="BeatAPI detail page: video, model information and prompt" width="680" /></a></p>
 
-*Website detail page shown in its review version.*
+*Watch the original recording and copy the creator-published prompt on BeatAPI.*
 
 <a id="credits"></a>
 
