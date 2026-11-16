@@ -11,3 +11,7 @@ Select six starting points across distinct uses and creators, checking visible r
 Run `npm run build && npm test`, then sync the website catalog and verify playback, source attribution, mobile layout and the six featured destinations. Publish the website routes before promoting new README links.
 
 No automated posting is part of this repository. Share a specific case with an honest workflow description when promoting it.
+
+## README presentation
+
+Keep a real-example cover in `assets/readme-cover.png` (the reproducible 1600 × 760 layout is `assets/cover-layout.html`). Store each credited source poster in `assets/posters/<case-id>.jpg`. The generator renders six starting points and a complete image gallery grouped by use. Every image and playback action leads to the corresponding BeatAPI page; creator links remain attribution. Do not replace the visual catalog with a metadata-only table.
