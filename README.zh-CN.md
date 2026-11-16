@@ -1,30 +1,12 @@
 <p align="center"><a href="https://beatapi.io/zh/qwen4-videos?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><img src="./assets/readme-cover.png" alt="Qwen 4 creative coding — real creator examples curated by BeatAPI" width="100%" /></a></p>
 
-# Awesome Qwen 4 Videos
+用千问 4 制作的动画、建筑与三维场景。点击封面，在 BeatAPI 观看。
 
-用千问 4 写代码，做出动画、建筑演示、三维场景和游戏。收录原作者录屏、工作流与已公开提示词，点击作品封面即可进入 BeatAPI 对应案例。
-
-**[在 BeatAPI 观看全部案例 →](https://beatapi.io/zh/qwen4-videos?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos)** · [English](README.md)
-
-**21 个案例 · 22 段视频 · 3 条公开提示词**
-
-最近更新 · 2026-11-16：整理 21 个案例，精选六例，按用途分类。
-
-## 目录
-
-- [精选六例](#highlights)
-- [建筑与搭建](#architecture) · 4
-- [动画与讲解](#animation) · 10
-- [三维场景与游戏](#worlds) · 6
-- [工作流对照](#workflows) · 1
-- [如何观看与使用](#how-to-use)
-- [贡献与来源](#credits)
+**[观看全部案例 →](https://beatapi.io/zh/qwen4-videos?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos)** · [English](README.md) · **21 个案例 · 22 段视频 · 3 条公开提示词**
 
 <a id="highlights"></a>
 
 ## 精选六例
-
-先从建筑、机械动画、绘画与三维场景开始。点击封面或标题观看；有公开提示词的案例提供「提示词」入口，其余提供「案例说明」。
 
 <table>
 <tr>
@@ -38,6 +20,10 @@
 <td width="33%" valign="top"><a href="https://beatapi.io/zh/prompts/qwen4/floating-moss-garden-563391?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><img src="./assets/posters/floating-moss-garden-563391.jpg" alt="雾雨中的浮石苔藓庭" width="100%" /></a><br/><a href="https://beatapi.io/zh/prompts/qwen4/floating-moss-garden-563391?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><strong>雾雨中的浮石苔藓庭</strong></a><br/><sub>Max · Blender · Qoder · 37s</sub><br/><a href="cases/floating-moss-garden-563391.md">案例说明</a> · <sub><a href="https://x.com/tanglele0318/status/2122264972889563391">@tanglele0318</a></sub></td>
 </tr>
 </table>
+
+## 按分类浏览
+
+[建筑与搭建](#architecture) · 4 · [动画与讲解](#animation) · 10 · [三维场景与游戏](#worlds) · 6 · [工作流对照](#workflows) · 1 · [使用方法](#how-to-use) · [贡献与来源](#credits)
 
 <a id="architecture"></a>
 

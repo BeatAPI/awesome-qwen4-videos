@@ -1,5 +1,5 @@
 // [INPUT]: Reviewed creator cases and original prompts in cases/.
-// [OUTPUT]: Bilingual visual README with non-repeating curated grids, case pages and owned links.
+// [OUTPUT]: Bilingual README with a compact opening, immediate highlights, grouped cases and owned links.
 // [POS]: Deterministic repository publishing pipeline; never fetches or invents media.
 // [PROTOCOL]: Update cases, verify original sources, sync the website, then run npm test.
 import assert from 'node:assert/strict';
@@ -53,15 +53,14 @@ assert.ok(existsSync(new URL('assets/readme-cover.png',root)));
 for(const item of cases) assert.ok(existsSync(new URL(`assets/posters/${item.id}.jpg`,root)));
 for(const zh of [false,true]){
  const intro = zh
-  ? '用千问 4 写代码，做出动画、建筑演示、三维场景和游戏。收录原作者录屏、工作流与已公开提示词，点击作品封面即可进入 BeatAPI 对应案例。'
-  : 'Animations, architecture, 3D scenes and games made through creative coding with Qwen 4. Explore creator recordings, workflows and published prompts. Each cover opens its case on BeatAPI.';
+  ? '用千问 4 制作的动画、建筑与三维场景。点击封面，在 BeatAPI 观看。'
+  : 'Animations, architecture and 3D worlds made with Qwen 4. Click a cover to watch on BeatAPI.';
  const counts = `**${cases.length} ${zh?'个案例':'cases'} · ${cases.reduce((n,x)=>n+x.videos.length,0)} ${zh?'段视频':'videos'} · ${Object.keys(prompts).length} ${zh?'条公开提示词':'published prompts'}**`;
  const contents = [
-  `- [${zh?'精选六例':'Six highlights'}](#highlights)`,
-  ...groups.map(g => `- [${zh?g.zh:g.en}](#${g.id}) · ${cases.filter(x=>g.categories.includes(x.category)).length}`),
-  `- [${zh?'如何观看与使用':'How to watch and use'}](#how-to-use)`,
-  `- [${zh?'贡献与来源':'Contributing & credits'}](#credits)`,
- ].join('\n');
+    ...groups.map(g => `[${zh?g.zh:g.en}](#${g.id}) · ${cases.filter(x=>g.categories.includes(x.category)).length}`),
+  `[${zh?'使用方法':'How to use'}](#how-to-use)`,
+  `[${zh?'贡献与来源':'Credits'}](#credits)`,
+ ].join(' · ');
  const catalog = groups.map(g => {
   const all = cases.filter(x => g.categories.includes(x.category));
   const picks = all.filter(x => x.featured);
@@ -74,27 +73,19 @@ for(const zh of [false,true]){
  }).join('\n\n');
  const body = `<p align="center"><a href="${escape(owned('/qwen4-videos',zh))}"><img src="./assets/readme-cover.png" alt="Qwen 4 creative coding — real creator examples curated by BeatAPI" width="100%" /></a></p>
 
-# Awesome Qwen 4 Videos
-
 ${intro}
 
-**[${zh?'在 BeatAPI 观看全部案例':'Watch every case on BeatAPI'} →](${owned('/qwen4-videos',zh)})** · [${zh?'English':'中文'}](${zh?'README.md':'README.zh-CN.md'})
-
-${counts}
-
-${zh?'最近更新 · 2026-11-16：整理 21 个案例，精选六例，按用途分类。':'Latest update · 2026-11-16: 21 cases organized by use, with six highlights.'}
-
-## ${zh?'目录':'Contents'}
-
-${contents}
+**[${zh?'观看全部案例':'Watch all cases'} →](${owned('/qwen4-videos',zh)})** · [${zh?'English':'中文'}](${zh?'README.md':'README.zh-CN.md'}) · ${counts}
 
 <a id="highlights"></a>
 
 ## ${zh?'精选六例':'Six highlights'}
 
-${zh?'先从建筑、机械动画、绘画与三维场景开始。点击封面或标题观看；有公开提示词的案例提供「提示词」入口，其余提供「案例说明」。':'Start with architecture, mechanical animation, painting and 3D scenes. Open a cover or title to watch. Published prompts are labeled “Prompt”; other entries link to case notes.'}
-
 ${grid(featured,zh)}
+
+## ${zh?'按分类浏览':'Browse by category'}
+
+${contents}
 
 ${catalog}
 

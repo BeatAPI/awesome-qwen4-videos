@@ -1,30 +1,12 @@
 <p align="center"><a href="https://beatapi.io/qwen4-videos?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><img src="./assets/readme-cover.png" alt="Qwen 4 creative coding — real creator examples curated by BeatAPI" width="100%" /></a></p>
 
-# Awesome Qwen 4 Videos
+Animations, architecture and 3D worlds made with Qwen 4. Click a cover to watch on BeatAPI.
 
-Animations, architecture, 3D scenes and games made through creative coding with Qwen 4. Explore creator recordings, workflows and published prompts. Each cover opens its case on BeatAPI.
-
-**[Watch every case on BeatAPI →](https://beatapi.io/qwen4-videos?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos)** · [中文](README.zh-CN.md)
-
-**21 cases · 22 videos · 3 published prompts**
-
-Latest update · 2026-11-16: 21 cases organized by use, with six highlights.
-
-## Contents
-
-- [Six highlights](#highlights)
-- [Architecture & building](#architecture) · 4
-- [Animation & explainers](#animation) · 10
-- [3D worlds & games](#worlds) · 6
-- [Workflow comparisons](#workflows) · 1
-- [How to watch and use](#how-to-use)
-- [Contributing & credits](#credits)
+**[Watch all cases →](https://beatapi.io/qwen4-videos?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos)** · [中文](README.zh-CN.md) · **21 cases · 22 videos · 3 published prompts**
 
 <a id="highlights"></a>
 
 ## Six highlights
-
-Start with architecture, mechanical animation, painting and 3D scenes. Open a cover or title to watch. Published prompts are labeled “Prompt”; other entries link to case notes.
 
 <table>
 <tr>
@@ -38,6 +20,10 @@ Start with architecture, mechanical animation, painting and 3D scenes. Open a co
 <td width="33%" valign="top"><a href="https://beatapi.io/prompts/qwen4/floating-moss-garden-563391?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><img src="./assets/posters/floating-moss-garden-563391.jpg" alt="Floating moss garden in mist and rain" width="100%" /></a><br/><a href="https://beatapi.io/prompts/qwen4/floating-moss-garden-563391?utm_source=github&amp;utm_medium=gallery&amp;utm_campaign=awesome-qwen4-videos"><strong>Floating moss garden in mist and rain</strong></a><br/><sub>Max · Blender · Qoder · 37s</sub><br/><a href="cases/floating-moss-garden-563391.md">Case notes</a> · <sub><a href="https://x.com/tanglele0318/status/2122264972889563391">@tanglele0318</a></sub></td>
 </tr>
 </table>
+
+## Browse by category
+
+[Architecture & building](#architecture) · 4 · [Animation & explainers](#animation) · 10 · [3D worlds & games](#worlds) · 6 · [Workflow comparisons](#workflows) · 1 · [How to use](#how-to-use) · [Credits](#credits)
 
 <a id="architecture"></a>
 
