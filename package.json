@@ -1,0 +1,6 @@
+{
+  "name": "awesome-qwen4-videos",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node scripts/build.mjs", "test": "node scripts/build.mjs --check" }
+}
