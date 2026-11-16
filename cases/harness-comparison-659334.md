@@ -8,7 +8,7 @@
 - Creator: [EamonMcKiernan5](https://x.com/EamonMcKiernan5/status/2122090559489659334)
 - Workflow: DeepSeek Harness, HTML, Qwen Code
 - Source checked: 2026-11-16
-- Prompt: Complete prompt not verified
+- Prompt: —
 - Recording order: Qwen Code / DeepSeek Harness
 
 The recording is a creator example, not an independent BeatAPI reproduction. Media and prompts retain their original rights; no additional media license is asserted.

@@ -8,6 +8,6 @@
 - Creator: [ItsmeAjayKV](https://x.com/ItsmeAjayKV/status/2120676196921069800)
 - Workflow: Not specified by the creator
 - Source checked: 2026-11-16
-- Prompt: Complete prompt not verified
+- Prompt: —
 
 The recording is a creator example, not an independent BeatAPI reproduction. Media and prompts retain their original rights; no additional media license is asserted.
