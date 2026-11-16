@@ -35,7 +35,9 @@
           "posterSha256": "a4a9f8659360e72a3c6cff3d29478c56aba50bcaeaa8bd3efe701530fb79be38",
           "bytes": 2081848,
           "posterBytes": 21317,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 640,
+          "height": 368
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/temple-of-heaven-131506/poster-a4a9f8659360.jpg"
@@ -72,7 +74,9 @@
           "posterSha256": "81970c363d8fab0683a8503cba165d04a02dffd11d898d7e9a8d3393d3062ccd",
           "bytes": 8913254,
           "posterBytes": 30097,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/mechanical-hummingbird-069800/poster-81970c363d8f.jpg"
@@ -111,7 +115,9 @@
           "posterSha256": "62020251f8571cc62e116b8ff57eec5913c7d322d976e70e51ea351674112185",
           "bytes": 2702977,
           "posterBytes": 49325,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
         }
       ],
       "disclosure": "Creator post displayed a paid-partnership label; this is not an independent benchmark.",
@@ -151,7 +157,9 @@
           "posterSha256": "405999960a549030d6a1eadc7902f79eeb1ef6ec897cb47f52c1bd2b0eae8cc0",
           "bytes": 1638216,
           "posterBytes": 63208,
-          "hasAudio": false
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/fisherman-oil-portrait-932340/poster-405999960a54.jpg"
@@ -190,7 +198,9 @@
           "posterSha256": "74c352ca630ee9399da896060974e8f9779b011aa1f4179bc608ed1aaea7bb36",
           "bytes": 6204061,
           "posterBytes": 62409,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/floating-water-house-021434/poster-74c352ca630e.jpg"
@@ -229,7 +239,9 @@
           "posterSha256": "c046933ef8dfff3437c48d38a255e0db6a9b188b1ad894fdacf6cc56431a6b78",
           "bytes": 2176150,
           "posterBytes": 32089,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/folding-drone-251469/poster-c046933ef8df.jpg"
@@ -266,7 +278,9 @@
           "posterSha256": "92d710fcab10287fb3dc8917e275c9ada075b0c6473c3abd5c30075e24401eb5",
           "bytes": 2517257,
           "posterBytes": 62858,
-          "hasAudio": false
+          "hasAudio": false,
+          "width": 1158,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/pelican-3d-468988/poster-92d710fcab10.jpg"
@@ -303,7 +317,9 @@
           "posterSha256": "a5bf38f747df856caaafeaed0f2b091d3020fad824277753a2cea382bbad32b1",
           "bytes": 22169966,
           "posterBytes": 109728,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1342,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/neon-city-822686/poster-a5bf38f747df.jpg"
@@ -342,7 +358,9 @@
           "posterSha256": "c41f99822ae43ec08de547bad5fbf3f58bca9fdc9d18a87a6c0a88f6e09c7229",
           "bytes": 27762841,
           "posterBytes": 113429,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1340,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/internet-machine-223996/poster-c41f99822ae4.jpg"
@@ -383,7 +401,9 @@
           "posterSha256": "0c1ea107b821ca3dbe492b9c7f119d616601ead37371f33c376eca3dce24d550",
           "bytes": 7960072,
           "posterBytes": 93051,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1426,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/floating-moss-garden-563391/poster-0c1ea107b821.jpg"
@@ -423,7 +443,9 @@
           "posterSha256": "a458df6b4fea33922039023389051dcc74ceb314eda6e9cfd3b35b482cfce3de",
           "bytes": 3043592,
           "posterBytes": 84852,
-          "hasAudio": false
+          "hasAudio": false,
+          "width": 1124,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/svg-pelican-750020/poster-a458df6b4fea.jpg"
@@ -463,7 +485,9 @@
           "posterSha256": "39c57e26bbb3393d4ed0de35bd71baad30cad3fddaff8717134231682e45ddf9",
           "bytes": 2583269,
           "posterBytes": 42859,
-          "hasAudio": false
+          "hasAudio": false,
+          "width": 1482,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/blender-tripo-game-449084/poster-39c57e26bbb3.jpg"
@@ -503,7 +527,9 @@
           "posterSha256": "c8e61db5fc9a9b5a6ce2f9f31d605544a3cca2707f84a1210ef2ff49a10f8adc",
           "bytes": 12906201,
           "posterBytes": 41708,
-          "hasAudio": false
+          "hasAudio": false,
+          "width": 1338,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/wukong-airplane-033439/poster-c8e61db5fc9a.jpg"
@@ -542,7 +568,9 @@
           "posterSha256": "909946190bd4a23b85c92c096aae742a9dbe0d3ba27665039ff2f7c974832fda",
           "bytes": 868562,
           "posterBytes": 37714,
-          "hasAudio": false
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/breathing-creature-495448/poster-909946190bd4.jpg"
@@ -581,7 +609,9 @@
           "posterSha256": "11cffd7a13f33dde4de5672fd6950b11a1209faa43382f6349268000f4765efc",
           "bytes": 24056828,
           "posterBytes": 89666,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1336,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/medieval-world-399531/poster-11cffd7a13f3.jpg"
@@ -620,7 +650,9 @@
           "posterSha256": "a2e95182709d1410f95334ef6a9dfc970bc330ca7a667f9aafeee48823a301c0",
           "bytes": 14482212,
           "posterBytes": 139381,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/river-falling-leaves-302792/poster-a2e95182709d.jpg"
@@ -659,7 +691,9 @@
           "posterSha256": "39e910b1538e1b0647591e53696929b64a97e10b08c102c748b3c8dbb811b061",
           "bytes": 17672234,
           "posterBytes": 71960,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1524,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/voxel-eiffel-966418/poster-39e910b1538e.jpg"
@@ -696,7 +730,9 @@
           "posterSha256": "e3bee9d6ab7504d3097b5f621e965ecf25a8c72d42e37687581d628b536e7e3d",
           "bytes": 7765746,
           "posterBytes": 63761,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/lantern-water-village-685426/poster-e3bee9d6ab75.jpg"
@@ -735,7 +771,9 @@
           "posterSha256": "e43e02529ad8f17450d395f28e03c1b2384e46c914213249bc30622ed4d3db9e",
           "bytes": 12111182,
           "posterBytes": 110436,
-          "hasAudio": false
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/voxel-pagoda-garden-844876/poster-e43e02529ad8.jpg"
@@ -776,7 +814,9 @@
           "posterSha256": "1fe78499522772ee90167575072023d3a65c42d83d8c53c18ada40a754cde404",
           "bytes": 10477649,
           "posterBytes": 76915,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1416,
+          "height": 720
         },
         {
           "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/harness-comparison-659334/video-d7d24af2c806.mp4",
@@ -788,7 +828,9 @@
           "posterSha256": "802747c25c1f92751e9ad1dac2dc35888f6558e8976d1f272d68d3db8bdccbd0",
           "bytes": 10793596,
           "posterBytes": 70222,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1490,
+          "height": 720
         }
       ],
       "mediaLabels": [
@@ -831,10 +873,3174 @@
           "posterSha256": "56cb3ef98b420790ad28bf90f8e8f5d38cd3ba7f32eca1afed68fd614c295a0c",
           "bytes": 2737570,
           "posterBytes": 53103,
-          "hasAudio": true
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
         }
       ],
       "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/spider-web-214830/poster-56cb3ef98b42.jpg"
+    },
+    {
+      "id": "svg-pelican-motion-263601",
+      "title": {
+        "en": "SVG pelican cycling animation",
+        "zh": "SVG 鹈鹕骑车动画",
+        "ja": "SVG のペリカン自転車アニメーション"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max",
+      "creator": "oldfrog123",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/oldfrog123/status/2122161445488263601",
+      "publishedAt": "Mon Nov 16 02:54:51 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/svg-pelican-motion-263601",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/svg-pelican-motion-263601/video-8ae39e3c76f0.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/svg-pelican-motion-263601/poster-eaa1f66820bc.jpg",
+          "mediaKey": "13_2122161003156983808",
+          "durationSeconds": 7.943,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122161003156983808/vid/avc1/1280x720/2-Lj-LHPKgTqM26c.mp4?tag=29",
+          "sha256": "8ae39e3c76f04aca055fe72dc0f04d6d4747be371d600320e1342bd5db86c647",
+          "posterSha256": "eaa1f66820bcfd14b6315760ec5eaa3f79f916019ae05c8aafccd09179dea242",
+          "bytes": 575963,
+          "posterBytes": 40313,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/svg-pelican-motion-263601/poster-eaa1f66820bc.jpg"
+    },
+    {
+      "id": "electric-motor-comparison-352257",
+      "title": {
+        "en": "Electric motor simulation: model comparison",
+        "zh": "电动机原理模拟：模型对比",
+        "ja": "電気モーターのシミュレーション：モデル比較"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max",
+      "creator": "analogalok",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/analogalok/status/2122221106304352257",
+      "publishedAt": "Mon Nov 16 06:51:55 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/electric-motor-comparison-352257",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/electric-motor-comparison-352257/video-03c7f9fe28e1.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/electric-motor-comparison-352257/poster-8e38a409c071.jpg",
+          "mediaKey": "13_2122218654523887617",
+          "durationSeconds": 13.525333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122218654523887617/vid/avc1/720x1080/mJqLnco8XTdTMJH8.mp4?tag=29",
+          "sha256": "03c7f9fe28e1a47776be04b115bbdb74647e1f8a8cb568c9364d05fb1851f34d",
+          "posterSha256": "8e38a409c07193942c81e1d7c8e26fedab67ba16189adda0a460c5b37dc8c870",
+          "bytes": 1939025,
+          "posterBytes": 134810,
+          "hasAudio": true,
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/electric-motor-comparison-352257/poster-8e38a409c071.jpg"
+    },
+    {
+      "id": "voxel-medieval-kingdom-236635",
+      "title": {
+        "en": "Voxel medieval kingdom",
+        "zh": "体素中世纪王国",
+        "ja": "ボクセルの中世王国"
+      },
+      "category": "architecture",
+      "model": "Qwen4-Max",
+      "creator": "dragono64v",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/dragono64v/status/2122198718829236635",
+      "publishedAt": "Mon Nov 16 05:22:57 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/voxel-medieval-kingdom-236635",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Three.js"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/voxel-medieval-kingdom-236635/video-ee9bfdde171a.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/voxel-medieval-kingdom-236635/poster-05ce4f2e5cc5.jpg",
+          "mediaKey": "13_2122197145835237376",
+          "durationSeconds": 47.786667,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122197145835237376/vid/avc1/1346x720/ajSzg-8iWm9FMPZ_.mp4?tag=29",
+          "sha256": "ee9bfdde171a2e9dda69adb3e9f484eef4bb900828ff6bec94123d78fb5a0b0c",
+          "posterSha256": "05ce4f2e5cc5b1993f8125316569b3a9814c25abf8ea72769a95856fee7e91bd",
+          "bytes": 7978267,
+          "posterBytes": 103741,
+          "hasAudio": true,
+          "width": 1346,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/voxel-medieval-kingdom-236635/poster-05ce4f2e5cc5.jpg"
+    },
+    {
+      "id": "wrecking-ball-physics-437262",
+      "title": {
+        "en": "Wrecking ball physics: Qwen vs Sonnet",
+        "zh": "破坏球物理模拟：Qwen 与 Sonnet",
+        "ja": "鉄球の物理シミュレーション：Qwen と Sonnet"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max-Preview",
+      "creator": "Josjesk",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/Josjesk/status/2120570762591437262",
+      "publishedAt": "Wed Nov 11 17:34:02 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/wrecking-ball-physics-437262",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/wrecking-ball-physics-437262/video-788b2f997d45.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/wrecking-ball-physics-437262/poster-c2e4cc6f82e3.jpg",
+          "mediaKey": "13_2120570724049887232",
+          "durationSeconds": 17.5,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120570724049887232/vid/avc1/1280x720/0nxUEMocYk3B2dd2.mp4?tag=14",
+          "sha256": "788b2f997d4593139cb143f94f5bb73672c8017f141791d15718aba4b917fe02",
+          "posterSha256": "c2e4cc6f82e363fb237917c1ce2b424382238f34224c3e9e987f8fb2068f2857",
+          "bytes": 1753845,
+          "posterBytes": 83158,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/wrecking-ball-physics-437262/poster-c2e4cc6f82e3.jpg"
+    },
+    {
+      "id": "thousand-sunny-918494",
+      "title": {
+        "en": "Thousand Sunny: Max vs Preview",
+        "zh": "千阳号：正式版与预览版",
+        "ja": "サウザンドサニー号：正式版とプレビュー版"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max",
+      "creator": "PokeBenchTV",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/PokeBenchTV/status/2122203182285918494",
+      "publishedAt": "Mon Nov 16 05:40:41 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/thousand-sunny-918494",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/thousand-sunny-918494/video-cf4973bd886f.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/thousand-sunny-918494/poster-ca569c8c0c38.jpg",
+          "mediaKey": "13_2122202460592721920",
+          "durationSeconds": 20.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122202460592721920/vid/avc1/1920x640/u1D9HutX4UIT6GTA.mp4?tag=29",
+          "sha256": "cf4973bd886fbdd5be46389d16f742b3999b867130913db426541b4e0d7e2d51",
+          "posterSha256": "ca569c8c0c38cdf3a5d2774d7bb52796398585e31f722e2473efc470990fda5a",
+          "bytes": 4081711,
+          "posterBytes": 57600,
+          "hasAudio": false,
+          "width": 1920,
+          "height": 640
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/thousand-sunny-918494/poster-ca569c8c0c38.jpg"
+    },
+    {
+      "id": "evolving-creatures-565304",
+      "title": {
+        "en": "Creatures learning to walk",
+        "zh": "学习行走的进化生物",
+        "ja": "歩行を学習する生き物"
+      },
+      "category": "explainer",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "aijoey",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/aijoey/status/2118744280491565304",
+      "publishedAt": "Fri Nov 06 16:36:15 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/evolving-creatures-565304",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/evolving-creatures-565304/video-e24303e3c075.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/evolving-creatures-565304/poster-d00759d0a360.jpg",
+          "mediaKey": "13_2118744124027195392",
+          "durationSeconds": 40.767,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2118744124027195392/vid/avc1/1128x720/o-ou-BO6vUNYs6bg.mp4?tag=29",
+          "sha256": "e24303e3c075bb3e3b2564625abaf2ef2c22e7420b3fdf068647c18af9c119b5",
+          "posterSha256": "d00759d0a36032bb03339d21b5ce9ae6ad39ca32ca09d867022dcfb5c06441a7",
+          "bytes": 4735807,
+          "posterBytes": 33072,
+          "hasAudio": true,
+          "width": 1128,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/evolving-creatures-565304/poster-d00759d0a360.jpg"
+    },
+    {
+      "id": "crab-on-beach-434723",
+      "title": {
+        "en": "Crab on a beach: Qwen vs DeepSeek",
+        "zh": "沙滩螃蟹：Qwen 与 DeepSeek",
+        "ja": "砂浜のカニ：Qwen と DeepSeek"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max",
+      "creator": "loktar00",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/loktar00/status/2120383891605434723",
+      "publishedAt": "Wed Nov 11 05:11:29 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/crab-on-beach-434723",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/crab-on-beach-434723/video-6942d4391de4.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/crab-on-beach-434723/poster-b151f060ff74.jpg",
+          "mediaKey": "13_2120383648771764224",
+          "durationSeconds": 30.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120383648771764224/vid/avc1/720x1280/_F7Im6vc1QDhtklr.mp4?tag=29",
+          "sha256": "6942d4391de40b5aa80b31f7d13f2f9a0d1e6802556cf53e8a89d97d449ff290",
+          "posterSha256": "b151f060ff74eeed1fa8d376c8d3fc609784c797f8fe0cf7fd8ca8dfc56f27c9",
+          "bytes": 4716562,
+          "posterBytes": 87961,
+          "hasAudio": false,
+          "width": 720,
+          "height": 1280
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/crab-on-beach-434723/poster-b151f060ff74.jpg"
+    },
+    {
+      "id": "bugatti-assembly-229431",
+      "title": {
+        "en": "Bugatti assembly animation",
+        "zh": "布加迪装配动画",
+        "ja": "ブガッティの組み立てアニメーション"
+      },
+      "category": "animation",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "KobinFlow",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/KobinFlow/status/2122320934187229431",
+      "publishedAt": "Mon Nov 16 13:28:36 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/bugatti-assembly-229431",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/bugatti-assembly-229431/video-01d0795a54e7.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/bugatti-assembly-229431/poster-c183843c2037.jpg",
+          "mediaKey": "13_2122320261865472000",
+          "durationSeconds": 10.0,
+          "sourceUrl": "https://video-s.twimg.com/amplify_video/2122320261865472000/vid/avc1/1280x720/wAMO9YFiXtcZOjSY.mp4?tag=29",
+          "sha256": "01d0795a54e7f5bc8191eebd377a664f037d4e3fe8dd09ef5ce7859188d8448b",
+          "posterSha256": "c183843c2037e67af8b62435b38fa581b46f76154c2e8208bcb35361fc5b03a9",
+          "bytes": 1245183,
+          "posterBytes": 75657,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/bugatti-assembly-229431/poster-c183843c2037.jpg"
+    },
+    {
+      "id": "fishing-village-cycle-171550",
+      "title": {
+        "en": "Fishing village day cycle: model comparison",
+        "zh": "渔村昼夜循环：模型对比",
+        "ja": "漁村の一日：モデル比較"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max",
+      "creator": "superalesha",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/superalesha/status/2122317512805171550",
+      "publishedAt": "Mon Nov 16 13:15:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/fishing-village-cycle-171550",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "DeepSeek Harness"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/fishing-village-cycle-171550/video-56906bd7224f.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/fishing-village-cycle-171550/poster-a3785c03a581.jpg",
+          "mediaKey": "13_2122259576078626816",
+          "durationSeconds": 60.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122259576078626816/vid/avc1/1280x720/TtL6mbagr-bmyOdG.mp4?tag=29",
+          "sha256": "56906bd7224f84ea9e56bafc9d1b1bdcaa90304d2b1ec6214a1e87acb5b05567",
+          "posterSha256": "a3785c03a5819799c2daed623138f2aa9bbf90d806dfe93814dde9205529cb58",
+          "bytes": 4643725,
+          "posterBytes": 74759,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/fishing-village-cycle-171550/poster-a3785c03a581.jpg"
+    },
+    {
+      "id": "sunset-train-station-363349",
+      "title": {
+        "en": "Sunset train station in Blender",
+        "zh": "Blender 黄昏列车站",
+        "ja": "Blender で描く夕暮れの駅"
+      },
+      "category": "film",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "WattterDjiang",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/WattterDjiang/status/2122309270033363349",
+      "publishedAt": "Mon Nov 16 12:42:15 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/sunset-train-station-363349",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Blender"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/sunset-train-station-363349/video-7b22b8dac165.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/sunset-train-station-363349/poster-eaaa268c113c.jpg",
+          "mediaKey": "13_2122308953011052544",
+          "durationSeconds": 18.065125,
+          "sourceUrl": "https://video-s.twimg.com/amplify_video/2122308953011052544/vid/avc1/1280x720/bZZhNJrY4HC9olys.mp4?tag=29",
+          "sha256": "7b22b8dac1654dc546d69fa9b1c551c0eb7eb2d0f2fa4c17e220f5e0774da573",
+          "posterSha256": "eaaa268c113cfb38745e224d08bc4e07bae5d7a5e47e2f158eef6aca10768853",
+          "bytes": 2597975,
+          "posterBytes": 69755,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/sunset-train-station-363349/poster-eaaa268c113c.jpg"
+    },
+    {
+      "id": "browser-shooter-968466",
+      "title": {
+        "en": "Single-file 3D shooting game",
+        "zh": "单文件 3D 射击游戏",
+        "ja": "単一ファイルの 3D シューティングゲーム"
+      },
+      "category": "game",
+      "model": "Qwen4-Max",
+      "creator": "niandwo",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/niandwo/status/2122179851901968466",
+      "publishedAt": "Mon Nov 16 04:07:59 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/browser-shooter-968466",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/browser-shooter-968466/video-1909659860bd.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/browser-shooter-968466/poster-d7b1f696dbad.jpg",
+          "mediaKey": "13_2122179259238363136",
+          "durationSeconds": 23.583,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122179259238363136/vid/avc1/1320x720/U0OhkCex4wJ0qZSN.mp4?tag=29",
+          "sha256": "1909659860bde5cd4d3e7ea533c54a0f3f129008d75c6037dbd0cc7fbfd700f3",
+          "posterSha256": "d7b1f696dbadddaf99ea49b5a7fbba29624b6b3b717017f20c3cc76f11e4e7f4",
+          "bytes": 3128178,
+          "posterBytes": 80459,
+          "hasAudio": false,
+          "width": 1320,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/browser-shooter-968466/poster-d7b1f696dbad.jpg"
+    },
+    {
+      "id": "pixel-sky-island-138367",
+      "title": {
+        "en": "A floating pixel island",
+        "zh": "像素天空浮岛",
+        "ja": "空に浮かぶピクセルの島"
+      },
+      "category": "scene",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "CanopyWave_CW",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/CanopyWave_CW/status/2122173792265138367",
+      "publishedAt": "Mon Nov 16 03:43:54 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/pixel-sky-island-138367",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/pixel-sky-island-138367/video-2f6b32ed58b8.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/pixel-sky-island-138367/poster-9ef7f7714ce3.jpg",
+          "mediaKey": "13_2122172708146511872",
+          "durationSeconds": 35.317551,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122172708146511872/vid/avc1/1364x720/HHljJna7ij0EC88J.mp4?tag=29",
+          "sha256": "2f6b32ed58b8bb5c1f1b5b4a4d0113cf1695971de30a98b28c0b92d3615eae19",
+          "posterSha256": "9ef7f7714ce33bcc91112d2c2b330a78156fe146b478a2d5186ed7bc1dc359b6",
+          "bytes": 3587575,
+          "posterBytes": 71588,
+          "hasAudio": true,
+          "width": 1364,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/pixel-sky-island-138367/poster-9ef7f7714ce3.jpg"
+    },
+    {
+      "id": "portal-ending-161745",
+      "title": {
+        "en": "Portal 2 ending in a browser",
+        "zh": "浏览器里的传送门 2 结局",
+        "ja": "ブラウザーで再現する Portal 2 のエンディング"
+      },
+      "category": "film",
+      "model": "Qwen4-Max",
+      "creator": "he1000se",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/he1000se/status/2122173095293161745",
+      "publishedAt": "Mon Nov 16 03:41:08 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/portal-ending-161745",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "OpenCode"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/portal-ending-161745/video-142f3f1709a7.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/portal-ending-161745/poster-9e0206a82b59.jpg",
+          "mediaKey": "13_2122172993040269312",
+          "durationSeconds": 44.288,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122172993040269312/vid/avc1/1280x720/00Zq0yXZayyhFc8s.mp4?tag=14",
+          "sha256": "142f3f1709a74b445d6f4f617faecfbd0cf97b35432f50f6235a8c3d67f74d28",
+          "posterSha256": "9e0206a82b5951cfad6eb705f0fc1ef68801c0144953b7f392e4539a3e946dfc",
+          "bytes": 11276913,
+          "posterBytes": 63997,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/portal-ending-161745/poster-9e0206a82b59.jpg"
+    },
+    {
+      "id": "london-sky-diorama-930161",
+      "title": {
+        "en": "London floating-island diorama",
+        "zh": "伦敦天空浮岛沙盘",
+        "ja": "ロンドンの浮島ジオラマ"
+      },
+      "category": "architecture",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "RezAIT00",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/RezAIT00/status/2122170984832930161",
+      "publishedAt": "Mon Nov 16 03:32:45 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/london-sky-diorama-930161",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/london-sky-diorama-930161/video-b7e1953bf120.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/london-sky-diorama-930161/poster-b2c8e4739abb.jpg",
+          "mediaKey": "13_2122170177005510656",
+          "durationSeconds": 12.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122170177005510656/vid/avc1/1280x720/aUvaoTog3awzuhtF.mp4?tag=29",
+          "sha256": "b7e1953bf1204af1f707726916aa952b4deedad1de18ee9d035d9f9395921b95",
+          "posterSha256": "b2c8e4739abb3a67c3ede9237229ebeb85e7ef827c518dd2ab90f89b84597d2e",
+          "bytes": 1202902,
+          "posterBytes": 62857,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/london-sky-diorama-930161/poster-b2c8e4739abb.jpg"
+    },
+    {
+      "id": "voxel-pagoda-205870",
+      "title": {
+        "en": "Voxel pagoda study",
+        "zh": "体素宝塔实测",
+        "ja": "ボクセルの仏塔"
+      },
+      "category": "architecture",
+      "model": "Qwen4-Max",
+      "creator": "dragono64v",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/dragono64v/status/2122170904063205870",
+      "publishedAt": "Mon Nov 16 03:32:26 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/voxel-pagoda-205870",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/voxel-pagoda-205870/video-6138d1097c0b.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/voxel-pagoda-205870/poster-0b256bb03a72.jpg",
+          "mediaKey": "13_2122169469246283776",
+          "durationSeconds": 31.850667,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122169469246283776/vid/avc1/1360x720/RTLdt4EiDeBaktR-.mp4?tag=29",
+          "sha256": "6138d1097c0bacb910d26875c8efebf0ce8c7264be3f793a080d6ae4bd718364",
+          "posterSha256": "0b256bb03a720bf00f7b466851c0c479c7403817d423207594e0288c17176719",
+          "bytes": 5428960,
+          "posterBytes": 80612,
+          "hasAudio": true,
+          "width": 1360,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/voxel-pagoda-205870/poster-0b256bb03a72.jpg"
+    },
+    {
+      "id": "playable-violin-260584",
+      "title": {
+        "en": "A playable browser violin",
+        "zh": "可演奏的浏览器小提琴",
+        "ja": "ブラウザーで弾けるバイオリン"
+      },
+      "category": "workflow",
+      "model": "Qwen4-Max",
+      "creator": "he1000se",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/he1000se/status/2122164935761260584",
+      "publishedAt": "Mon Nov 16 03:08:43 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/playable-violin-260584",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "OpenCode"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/playable-violin-260584/video-f4cd08e536a0.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/playable-violin-260584/poster-856072f79c71.jpg",
+          "mediaKey": "13_2122164817133789184",
+          "durationSeconds": 27.776,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122164817133789184/vid/avc1/1280x720/nNnH_VnCYxfI-MFG.mp4?tag=14",
+          "sha256": "f4cd08e536a07c20edb4af597d570339b3d40d52db43373b11f2ca8560889e74",
+          "posterSha256": "856072f79c7199cc9305f8aadf93ec258311c67afd0696e617b16943a2822974",
+          "bytes": 1048290,
+          "posterBytes": 24275,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/playable-violin-260584/poster-856072f79c71.jpg"
+    },
+    {
+      "id": "premium-isp-355486",
+      "title": {
+        "en": "Animated ISP landing page",
+        "zh": "动态 ISP 展示页",
+        "ja": "動きのある ISP ランディングページ"
+      },
+      "category": "workflow",
+      "model": "Qwen4-Max",
+      "creator": "atomtanstudio",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/atomtanstudio/status/2122158449161355486",
+      "publishedAt": "Mon Nov 16 02:42:56 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/premium-isp-355486",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Three.js"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/premium-isp-355486/video-aef9f3fd289d.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/premium-isp-355486/poster-a2aa35658ba8.jpg",
+          "mediaKey": "13_2122158163327848448",
+          "durationSeconds": 33.493333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122158163327848448/vid/avc1/1584x720/_HrirOEALXT299Lk.mp4?tag=29",
+          "sha256": "aef9f3fd289d55b98e419be32c6503f5c37d35ce9586b88d72e5f3161ca7c5e8",
+          "posterSha256": "a2aa35658ba84056bffba44b0c9ccf198337546ceb3df69c34f65130a67fd620",
+          "bytes": 2873145,
+          "posterBytes": 56371,
+          "hasAudio": true,
+          "width": 1584,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/premium-isp-355486/poster-a2aa35658ba8.jpg"
+    },
+    {
+      "id": "forest-light-comparison-523504",
+      "title": {
+        "en": "Forest lighting: model comparison",
+        "zh": "森林光照：模型对比",
+        "ja": "森のライティング：モデル比較"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "superalesha",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/superalesha/status/2122029835849523504",
+      "publishedAt": "Sun Nov 15 18:11:52 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/forest-light-comparison-523504",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Three.js"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/forest-light-comparison-523504/video-45ea74f83b0b.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/forest-light-comparison-523504/poster-eccc2c5ed973.jpg",
+          "mediaKey": "13_2122028345655234560",
+          "durationSeconds": 90.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122028345655234560/vid/avc1/1280x720/8sn0GSz0sOjzi5rd.mp4?tag=29",
+          "sha256": "45ea74f83b0ba6f7ac8fefd0d0fe9de4d8ab0c6aca940479a972d9e21eb6817b",
+          "posterSha256": "eccc2c5ed973bf8f26e4c146ae848f8be30a6955461f612d39f3f0516ec2e0bb",
+          "bytes": 15928917,
+          "posterBytes": 70446,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/forest-light-comparison-523504/poster-eccc2c5ed973.jpg"
+    },
+    {
+      "id": "gaussian-splat-doom-010388",
+      "title": {
+        "en": "Doom with Gaussian splats",
+        "zh": "高斯泼溅渲染 Doom",
+        "ja": "ガウシアンスプラッティングで描く Doom"
+      },
+      "category": "game",
+      "model": "Qwen4-Max-Preview",
+      "creator": "DrTBehrens",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/DrTBehrens/status/2122018725977010388",
+      "publishedAt": "Sun Nov 15 17:27:44 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/gaussian-splat-doom-010388",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/gaussian-splat-doom-010388/video-8bdda3fba15c.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/gaussian-splat-doom-010388/poster-73ae7825f3eb.jpg",
+          "mediaKey": "13_2122018037435867138",
+          "durationSeconds": 49.28,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122018037435867138/vid/avc1/1280x720/TooAlQPB6H4Zqx7m.mp4?tag=14",
+          "sha256": "8bdda3fba15c9c8b2588eb32eb0e332e3565ac34219a26dee30f62068b411e39",
+          "posterSha256": "73ae7825f3ebfe4efa7b73c81b14d378761a05525bab5e12215ca93e3b60fa24",
+          "bytes": 7756380,
+          "posterBytes": 36538,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/gaussian-splat-doom-010388/poster-73ae7825f3eb.jpg"
+    },
+    {
+      "id": "earth-flight-tour-818966",
+      "title": {
+        "en": "Interactive Earth and flight paths",
+        "zh": "交互地球与城市航线",
+        "ja": "操作できる地球と都市間の航路"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max-Preview",
+      "creator": "iamfakhrealam",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/iamfakhrealam/status/2121996471830818966",
+      "publishedAt": "Sun Nov 15 15:59:18 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/earth-flight-tour-818966",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/earth-flight-tour-818966/video-2090fc7e9695.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/earth-flight-tour-818966/poster-216060ae212e.jpg",
+          "mediaKey": "13_2121996419016134656",
+          "durationSeconds": 17.252426,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121996419016134656/vid/avc1/1322x720/DIOKOMHmL3e_X-vx.mp4?tag=16",
+          "sha256": "2090fc7e9695472096e43b32ba952eea7367482eabf3236a7149594f012602c0",
+          "posterSha256": "216060ae212edc734a0fb4bb22d7fab4788c3952cb2b80ab7972214b5efa6783",
+          "bytes": 887763,
+          "posterBytes": 51386,
+          "hasAudio": true,
+          "width": 1322,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/earth-flight-tour-818966/poster-216060ae212e.jpg"
+    },
+    {
+      "id": "living-oil-river-806221",
+      "title": {
+        "en": "A river as a living oil painting",
+        "zh": "流动油画中的河流",
+        "ja": "動く油絵の川"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "ItsmeAjayKV",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/ItsmeAjayKV/status/2121982296563806221",
+      "publishedAt": "Sun Nov 15 15:02:58 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/living-oil-river-806221",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Three.js",
+        "DeepSeek Harness"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/living-oil-river-806221/video-1be9b3bfc840.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/living-oil-river-806221/poster-c42f7b729a63.jpg",
+          "mediaKey": "13_2121978963270778880",
+          "durationSeconds": 202.176,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121978963270778880/vid/avc1/1280x720/9ZWA71LcOEK1rnaJ.mp4?tag=29",
+          "sha256": "1be9b3bfc840510dbcbcdc4ecccfcb8eb75ad3c882cfe03de89a14d90a8e79fc",
+          "posterSha256": "c42f7b729a636578f586a60044ffa9f21afccccbb33f6cd650ab3a4da33f480e",
+          "bytes": 45238283,
+          "posterBytes": 68000,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/living-oil-river-806221/poster-c42f7b729a63.jpg"
+    },
+    {
+      "id": "dragon-film-comparison-831302",
+      "title": {
+        "en": "Dragon fight: Qwen vs Gemini",
+        "zh": "双龙之战：Qwen 与 Gemini",
+        "ja": "ドラゴンの戦い：Qwen と Gemini"
+      },
+      "category": "film",
+      "model": "Qwen4-Max",
+      "creator": "DrstaOne",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/DrstaOne/status/2121947540509831302",
+      "publishedAt": "Sun Nov 15 12:44:52 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/dragon-film-comparison-831302",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/dragon-film-comparison-831302/video-dfe35fd529e7.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/dragon-film-comparison-831302/poster-647d4b7eeee2.jpg",
+          "mediaKey": "13_2121943887279452160",
+          "durationSeconds": 31.8,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121943887279452160/vid/avc1/1280x720/pHNDV8qJiTV18p6m.mp4?tag=29",
+          "sha256": "dfe35fd529e70aa998a4ed63b0004d1b5bfbdc7ffba7fccfabefe51e501fc2fb",
+          "posterSha256": "647d4b7eeee24a81a48d549d79552589bc2ffc3679cd5aad700e248a7adfb62a",
+          "bytes": 3299070,
+          "posterBytes": 41812,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/dragon-film-comparison-831302/poster-647d4b7eeee2.jpg"
+    },
+    {
+      "id": "hexapod-robot-249511",
+      "title": {
+        "en": "Six-legged robot with inverse kinematics",
+        "zh": "逆运动学六足机器人",
+        "ja": "逆運動学で動く六脚ロボット"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max-Preview",
+      "creator": "wherecall1",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/wherecall1/status/2121931679510249511",
+      "publishedAt": "Sun Nov 15 11:41:50 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/hexapod-robot-249511",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/hexapod-robot-249511/video-903f85181822.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/hexapod-robot-249511/poster-098eaeb7d4ca.jpg",
+          "mediaKey": "13_2121922829700763649",
+          "durationSeconds": 42.733,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121922829700763649/vid/avc1/640x300/L6YjZ1gdqL0vqKCh.mp4?tag=29",
+          "sha256": "903f85181822f1c07155b992c4fc3b358bb604d363be3a824ed31e3d45560de4",
+          "posterSha256": "098eaeb7d4ca0aaf0efebc9beca14b885e3d97e023cf5e0849dddeddd46ad412",
+          "bytes": 883603,
+          "posterBytes": 18912,
+          "hasAudio": false,
+          "width": 640,
+          "height": 300
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/hexapod-robot-249511/poster-098eaeb7d4ca.jpg"
+    },
+    {
+      "id": "island-portal-637258",
+      "title": {
+        "en": "Floating island with a magic portal",
+        "zh": "带魔法传送门的浮岛",
+        "ja": "魔法の門がある浮島"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "ItsmeAjayKV",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/ItsmeAjayKV/status/2121894489262637258",
+      "publishedAt": "Sun Nov 15 09:14:03 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/island-portal-637258",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Three.js",
+        "DeepSeek Harness"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/island-portal-637258/video-30049dffc6ce.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/island-portal-637258/poster-d4276dde2eb3.jpg",
+          "mediaKey": "13_2121892250120749056",
+          "durationSeconds": 62.144,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121892250120749056/vid/avc1/1280x720/Kx5_pcyEtx5tXXka.mp4?tag=29",
+          "sha256": "30049dffc6ce22cf7d6dec8029fcfc1b65fb42a6a77026ab14ca91b2ee9175e1",
+          "posterSha256": "d4276dde2eb39c7786dd21df506f747f8ad931c6d208bd705974aac65a18c839",
+          "bytes": 14478484,
+          "posterBytes": 66810,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/island-portal-637258/poster-d4276dde2eb3.jpg"
+    },
+    {
+      "id": "night-oak-comparison-662123",
+      "title": {
+        "en": "Gaussian-splat oak: model comparison",
+        "zh": "高斯泼溅夜间橡树：模型对比",
+        "ja": "夜のオーク：モデル比較"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max",
+      "creator": "loktar00",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/loktar00/status/2121774514698662123",
+      "publishedAt": "Sun Nov 15 01:17:19 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/night-oak-comparison-662123",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "DeepSeek Harness"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/night-oak-comparison-662123/video-b20d5b30d819.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/night-oak-comparison-662123/poster-99edc2b4f17b.jpg",
+          "mediaKey": "13_2121774029841321984",
+          "durationSeconds": 36.053333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121774029841321984/vid/avc1/1280x720/JJOiH0ZPzaSuKZmJ.mp4?tag=29",
+          "sha256": "b20d5b30d8196e7a4c1f70693f4e51fab36b15c9df0c53d3ac1a9fb83ba1f325",
+          "posterSha256": "99edc2b4f17b1141276d194a39bb47b6e28a26b313c65492157f6d26f35422f8",
+          "bytes": 9449229,
+          "posterBytes": 62930,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/night-oak-comparison-662123/poster-99edc2b4f17b.jpg"
+    },
+    {
+      "id": "snowy-aurora-meadow-517872",
+      "title": {
+        "en": "Snowy meadow beneath an aurora",
+        "zh": "极光下的冰雪草甸",
+        "ja": "オーロラの下の雪原"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "ItsmeAjayKV",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/ItsmeAjayKV/status/2121684794849517872",
+      "publishedAt": "Sat Nov 14 19:20:48 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/snowy-aurora-meadow-517872",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/snowy-aurora-meadow-517872/video-d9da470295a9.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/snowy-aurora-meadow-517872/poster-f7e6d9ce8ac8.jpg",
+          "mediaKey": "13_2121682980314001408",
+          "durationSeconds": 89.898667,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121682980314001408/vid/avc1/1280x720/CDPruMc3F1-1R-kW.mp4?tag=29",
+          "sha256": "d9da470295a90bc91b518d4d5c6a4f314da06a2cff4827a3525d11db1db4f58c",
+          "posterSha256": "f7e6d9ce8ac86e334aacb1389113592c213d7ae40d069d71d31922b275e78b7d",
+          "bytes": 19890049,
+          "posterBytes": 49496,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/snowy-aurora-meadow-517872/poster-f7e6d9ce8ac8.jpg"
+    },
+    {
+      "id": "skyholm-ruins-489858",
+      "title": {
+        "en": "Skyholm: a meadow among floating ruins",
+        "zh": "Skyholm：浮空遗迹草甸",
+        "ja": "Skyholm：浮かぶ遺跡と草原"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "ItsmeAjayKV",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/ItsmeAjayKV/status/2121578415996489858",
+      "publishedAt": "Sat Nov 14 12:18:06 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/skyholm-ruins-489858",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/skyholm-ruins-489858/video-0485daef88e3.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/skyholm-ruins-489858/poster-c7d6ad3fed28.jpg",
+          "mediaKey": "13_2121576569600950272",
+          "durationSeconds": 73.386667,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121576569600950272/vid/avc1/1280x720/QOCa6IgWZvO_6-KU.mp4?tag=29",
+          "sha256": "0485daef88e34029219fd43d8bfe8516228dd9a8d1fa12ffab29f599164a4606",
+          "posterSha256": "c7d6ad3fed28e563e003d852033afa1e87a5d8b712b12a9c5e13f54fbcf48c1b",
+          "bytes": 10336981,
+          "posterBytes": 84300,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/skyholm-ruins-489858/poster-c7d6ad3fed28.jpg"
+    },
+    {
+      "id": "liberty-island-1886-433422",
+      "title": {
+        "en": "Liberty Island in 1886",
+        "zh": "1886 年的自由岛",
+        "ja": "1886 年のリバティ島"
+      },
+      "category": "architecture",
+      "model": "Qwen4-Max-Preview",
+      "creator": "EamonMcKiernan5",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/EamonMcKiernan5/status/2121946431703433422",
+      "publishedAt": "Sun Nov 15 12:40:27 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/liberty-island-1886-433422",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "DeepSeek Harness"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/liberty-island-1886-433422/video-2ff7d59bec89.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/liberty-island-1886-433422/poster-96350705799a.jpg",
+          "mediaKey": "13_2121945321273991168",
+          "durationSeconds": 57.493333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121945321273991168/vid/avc1/1422x720/rJIWmNn9WA6H9MYr.mp4?tag=29",
+          "sha256": "2ff7d59bec89f3c7ca46a68d6f92805443fcab64e64ce3851d580853fc503a37",
+          "posterSha256": "96350705799a2368446374c2ec4f269a376d0fbc6104d0e083e4c52ef41b6774",
+          "bytes": 6534177,
+          "posterBytes": 77070,
+          "hasAudio": true,
+          "width": 1422,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/liberty-island-1886-433422/poster-96350705799a.jpg"
+    },
+    {
+      "id": "alderbrook-village-452105",
+      "title": {
+        "en": "Alderbrook village diorama",
+        "zh": "Alderbrook 村庄沙盘",
+        "ja": "Alderbrook 村のジオラマ"
+      },
+      "category": "architecture",
+      "model": "Qwen4-Max-Preview",
+      "creator": "EamonMcKiernan5",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/EamonMcKiernan5/status/2121933560680452105",
+      "publishedAt": "Sun Nov 15 11:49:19 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/alderbrook-village-452105",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "DeepSeek Harness",
+        "Qwen Code"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/alderbrook-village-452105/video-5ca6ac3c468f.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/alderbrook-village-452105/poster-6b344c504962.jpg",
+          "mediaKey": "13_2121931034325348352",
+          "durationSeconds": 72.89,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121931034325348352/vid/avc1/1320x720/eZfRLRrrvS7h1T76.mp4?tag=29",
+          "sha256": "5ca6ac3c468f87ab2115a12737eefc05ddda8842cf7eb3109c1f1e22ea99010f",
+          "posterSha256": "6b344c5049624d282c834b04ff4feb98c1343c5b29c5c62034c18959fbe1be27",
+          "bytes": 5839517,
+          "posterBytes": 77059,
+          "hasAudio": false,
+          "width": 1320,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/alderbrook-village-452105/poster-6b344c504962.jpg"
+    },
+    {
+      "id": "pagoda-blueprint-883694",
+      "title": {
+        "en": "Five-story pagoda: blueprint to construction",
+        "zh": "五重塔：从蓝图到搭建",
+        "ja": "五重塔：設計図から組み立てへ"
+      },
+      "category": "animation",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "kkkeric_ai",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/kkkeric_ai/status/2122303765755883694",
+      "publishedAt": "Mon Nov 16 12:20:22 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/pagoda-blueprint-883694",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/pagoda-blueprint-883694/video-e58dca0ff8a3.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/pagoda-blueprint-883694/poster-a88748dde25c.jpg",
+          "mediaKey": "13_2122303723276046336",
+          "durationSeconds": 20.181333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122303723276046336/vid/avc1/1280x658/Ff2L7yc_37ztPSaN.mp4?tag=29",
+          "sha256": "e58dca0ff8a3560baf02468505071d12c4c4e061443d4ead4a29bc5e7eee873d",
+          "posterSha256": "a88748dde25c13e72d30a0ce712b1099e4ed14a1753d4405b24184d637e72f1a",
+          "bytes": 3038635,
+          "posterBytes": 47636,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 658
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/pagoda-blueprint-883694/poster-a88748dde25c.jpg"
+    },
+    {
+      "id": "flight-sim-replay-998401",
+      "title": {
+        "en": "Flight simulator with cinematic replay",
+        "zh": "带电影回放的飞行模拟器",
+        "ja": "シネマティックリプレイ付き飛行シミュレーター"
+      },
+      "category": "game",
+      "model": "Qwen4-Max",
+      "creator": "tinkerlog",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/tinkerlog/status/2122304927732998401",
+      "publishedAt": "Mon Nov 16 12:24:59 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/flight-sim-replay-998401",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/flight-sim-replay-998401/video-5d9e2664bdd8.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/flight-sim-replay-998401/poster-dda7e9fc2975.jpg",
+          "mediaKey": "13_2122302759907074048",
+          "durationSeconds": 92.693333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122302759907074048/vid/avc1/1420x720/EyRrtfyEqdDZWQMS.mp4?tag=29",
+          "sha256": "5d9e2664bdd85b1e9206c58e0db87e5854346fef054842b10c795b26aa15a56b",
+          "posterSha256": "dda7e9fc29751d897d6cafeb72c5b60336937176ece9fc2270c617dfaa379030",
+          "bytes": 11697015,
+          "posterBytes": 65159,
+          "hasAudio": true,
+          "width": 1420,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/flight-sim-replay-998401/poster-dda7e9fc2975.jpg"
+    },
+    {
+      "id": "maeklong-market-118507",
+      "title": {
+        "en": "Maeklong railway market in Blender",
+        "zh": "Blender 美功铁道市场",
+        "ja": "Blender で描くメークロン線路市場"
+      },
+      "category": "architecture",
+      "model": "Qwen4-Max",
+      "creator": "Fferr16",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/Fferr16/status/2122299846422118507",
+      "publishedAt": "Mon Nov 16 12:04:48 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/maeklong-market-118507",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Blender"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/maeklong-market-118507/video-b81d49895a58.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/maeklong-market-118507/poster-4aa96738fc04.jpg",
+          "mediaKey": "13_2122299466959163392",
+          "durationSeconds": 18.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122299466959163392/vid/avc1/1280x720/uNVRSwACkSDkydQU.mp4?tag=29",
+          "sha256": "b81d49895a58ec706f3e712caa3bfe19cae6509ca311555fcf6794de8dec59a6",
+          "posterSha256": "4aa96738fc04198f11e7720eed1d9aad41c218cce61295f1ccf8cd2810c72ba6",
+          "bytes": 1581611,
+          "posterBytes": 60659,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/maeklong-market-118507/poster-4aa96738fc04.jpg"
+    },
+    {
+      "id": "mount-fuji-comparison-505326",
+      "title": {
+        "en": "Mount Fuji: Qwen vs Opus",
+        "zh": "富士山：Qwen 与 Opus",
+        "ja": "富士山：Qwen と Opus"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max",
+      "creator": "exploraX_",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/exploraX_/status/2122292875660505326",
+      "publishedAt": "Mon Nov 16 11:37:06 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/mount-fuji-comparison-505326",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/mount-fuji-comparison-505326/video-da585a0d29e8.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/mount-fuji-comparison-505326/poster-915368da06d4.jpg",
+          "mediaKey": "13_2122288490746359808",
+          "durationSeconds": 54.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122288490746359808/vid/avc1/720x944/r7UfE3qKsm9j-7cW.mp4?tag=29",
+          "sha256": "da585a0d29e8e86fdd341927ed4782e149a805d5d675370b7a265deb8fb8986b",
+          "posterSha256": "915368da06d4404dc72b0aab143810022dfe3f6083f67353999b355f19eb21df",
+          "bytes": 2005915,
+          "posterBytes": 126303,
+          "hasAudio": false,
+          "width": 720,
+          "height": 944
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/mount-fuji-comparison-505326/poster-915368da06d4.jpg"
+    },
+    {
+      "id": "mechanical-moth-329697",
+      "title": {
+        "en": "A mechanical moth awakens",
+        "zh": "机械飞蛾苏醒起飞",
+        "ja": "目覚めて飛び立つ機械の蛾"
+      },
+      "category": "film",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "Cara_Mosquito",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/Cara_Mosquito/status/2122289829807329697",
+      "publishedAt": "Mon Nov 16 11:25:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/mechanical-moth-329697",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/mechanical-moth-329697/video-d2ce736468c0.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/mechanical-moth-329697/poster-a46c004f8215.jpg",
+          "mediaKey": "13_2122286586767556608",
+          "durationSeconds": 18.065125,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122286586767556608/vid/avc1/1280x720/5ecSy-_9RngdkRrt.mp4?tag=29",
+          "sha256": "d2ce736468c03307e908271ad984e5f42a12f64426bca1539d988b5a94e5d3fa",
+          "posterSha256": "a46c004f821547e1e647b5693b3af12edd961eb0fa6643bebcd05df4206ab58c",
+          "bytes": 3024629,
+          "posterBytes": 66501,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/mechanical-moth-329697/poster-a46c004f8215.jpg"
+    },
+    {
+      "id": "interactive-ocean-019257",
+      "title": {
+        "en": "Interactive ocean waves",
+        "zh": "可交互的海浪",
+        "ja": "操作できる海の波"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max",
+      "creator": "edmand46",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/edmand46/status/2122287799718019257",
+      "publishedAt": "Mon Nov 16 11:16:56 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/interactive-ocean-019257",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/interactive-ocean-019257/video-e3850408dc92.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/interactive-ocean-019257/poster-70643bfdd084.jpg",
+          "mediaKey": "13_2122287014267555840",
+          "durationSeconds": 14.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122287014267555840/vid/avc1/720x900/sU81BnWarfYhP7pS.mp4?tag=29",
+          "sha256": "e3850408dc92ae78469ec556479ce7177d75e329177bea1d68668d17712724b3",
+          "posterSha256": "70643bfdd0845b4a2010146ff8ae634a33ad8a4d27debafe8bb47da0afc089ed",
+          "bytes": 1441866,
+          "posterBytes": 42546,
+          "hasAudio": false,
+          "width": 720,
+          "height": 900
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/interactive-ocean-019257/poster-70643bfdd084.jpg"
+    },
+    {
+      "id": "pixel-jet-comparison-084386",
+      "title": {
+        "en": "Pixel jet in clouds: model comparison",
+        "zh": "云中像素战机：模型对比",
+        "ja": "雲を飛ぶピクセル戦闘機：モデル比較"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max",
+      "creator": "superalesha",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/superalesha/status/2122284797301084386",
+      "publishedAt": "Mon Nov 16 11:05:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/pixel-jet-comparison-084386",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Three.js",
+        "DeepSeek Harness"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/pixel-jet-comparison-084386/video-3c1bfcae9958.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/pixel-jet-comparison-084386/poster-8e41c753d6ae.jpg",
+          "mediaKey": "13_2122259374798192640",
+          "durationSeconds": 60.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122259374798192640/vid/avc1/1280x720/H-Zjf3BgeYEk862A.mp4?tag=29",
+          "sha256": "3c1bfcae9958be402ae2b55bb0f052b01bb7daa179c5d47299e18181a080f5ba",
+          "posterSha256": "8e41c753d6ae44ef06f93d57bb878a5ebb4443478a5b77138fdb1b769bc83144",
+          "bytes": 15467038,
+          "posterBytes": 119595,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/pixel-jet-comparison-084386/poster-8e41c753d6ae.jpg"
+    },
+    {
+      "id": "valley-seasons-113727",
+      "title": {
+        "en": "Valley seasons: model comparison",
+        "zh": "山谷四季昼夜：模型对比",
+        "ja": "谷の四季と昼夜：モデル比較"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max",
+      "creator": "JangXiin",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/JangXiin/status/2122281418399113727",
+      "publishedAt": "Mon Nov 16 10:51:34 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/valley-seasons-113727",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/valley-seasons-113727/video-0bcd67f83d8f.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/valley-seasons-113727/poster-caaa1d1fe6d9.jpg",
+          "mediaKey": "13_2122279837024804865",
+          "durationSeconds": 24.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122279837024804865/vid/avc1/720x1280/BPtBgqfgnyxlbUv2.mp4?tag=29",
+          "sha256": "0bcd67f83d8fdc799ffd88683b0846fc455b012da373ccc80ec7ba73a288098d",
+          "posterSha256": "caaa1d1fe6d92a893b86e7b2230a01cc87fa9d9cd1573fe94bf57ed6a3b16bbd",
+          "bytes": 3613445,
+          "posterBytes": 89789,
+          "hasAudio": false,
+          "width": 720,
+          "height": 1280
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/valley-seasons-113727/poster-caaa1d1fe6d9.jpg"
+    },
+    {
+      "id": "perfume-motion-site-608775",
+      "title": {
+        "en": "Perfume website with micro-animations",
+        "zh": "带微动效的香水网站",
+        "ja": "細やかなアニメーションの香水サイト"
+      },
+      "category": "workflow",
+      "model": "Qwen4-Max",
+      "creator": "debugsenpai",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/debugsenpai/status/2122278417219608775",
+      "publishedAt": "Mon Nov 16 10:39:39 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/perfume-motion-site-608775",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/perfume-motion-site-608775/video-c76c259f98ee.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/perfume-motion-site-608775/poster-4cb15a0caca8.jpg",
+          "mediaKey": "13_2122278192224620544",
+          "durationSeconds": 21.548118,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122278192224620544/vid/avc1/1328x720/-8xM_3Sa1nKvj9XH.mp4?tag=29",
+          "sha256": "c76c259f98ee9a83d74fb9206f2a9d9b6b05767e616ecb5cb73f6420411e554f",
+          "posterSha256": "4cb15a0caca8c6636a2a52a4c75dd36f8db42fcebb8375e27a942330a2020733",
+          "bytes": 2048595,
+          "posterBytes": 52792,
+          "hasAudio": true,
+          "width": 1328,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/perfume-motion-site-608775/poster-4cb15a0caca8.jpg"
+    },
+    {
+      "id": "stickman-fight-392880",
+      "title": {
+        "en": "Stickman fight: Qwen vs Opus",
+        "zh": "火柴人打斗：Qwen 与 Opus",
+        "ja": "棒人間の戦い：Qwen と Opus"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max",
+      "creator": "DanielZambrini",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/DanielZambrini/status/2122272930113392880",
+      "publishedAt": "Mon Nov 16 10:17:51 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/stickman-fight-392880",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/stickman-fight-392880/video-1e22349ab40e.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/stickman-fight-392880/poster-e27cf63134bd.jpg",
+          "mediaKey": "13_2122271830421442560",
+          "durationSeconds": 15.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122271830421442560/vid/avc1/720x810/dlqV7SRj8nlZ8A_p.mp4?tag=29",
+          "sha256": "1e22349ab40ee3da68f0511a1c5e6f435a400cf231af67dde53cabbd15e10d5b",
+          "posterSha256": "e27cf63134bdad88e692ef8f80817347a097d8adba090bd2881fcfa24cb02819",
+          "bytes": 2122820,
+          "posterBytes": 64722,
+          "hasAudio": false,
+          "width": 720,
+          "height": 810
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/stickman-fight-392880/poster-e27cf63134bd.jpg"
+    },
+    {
+      "id": "japanese-sketch-world-853541",
+      "title": {
+        "en": "A walkable Japanese sketch world",
+        "zh": "可漫步的日式手绘世界",
+        "ja": "歩いて探索できる日本風スケッチの世界"
+      },
+      "category": "scene",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "bebuu_ai",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/bebuu_ai/status/2122263328659853541",
+      "publishedAt": "Mon Nov 16 09:39:41 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/japanese-sketch-world-853541",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/japanese-sketch-world-853541/video-f65fc03a13ed.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/japanese-sketch-world-853541/poster-db68ff326281.jpg",
+          "mediaKey": "13_2122263098329616384",
+          "durationSeconds": 19.477333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122263098329616384/vid/avc1/1514x720/YH4NvSVInQloUKCH.mp4?tag=29",
+          "sha256": "f65fc03a13ed1311dab64c8611f533dbe7a1a88503f8d5eacf7bf423f934c9e1",
+          "posterSha256": "db68ff326281437144675f36a0eac616f67131f1c61fbbe60097195faf0e2ace",
+          "bytes": 4302866,
+          "posterBytes": 84316,
+          "hasAudio": true,
+          "width": 1514,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/japanese-sketch-world-853541/poster-db68ff326281.jpg"
+    },
+    {
+      "id": "jasmine-piano-294428",
+      "title": {
+        "en": "Jasmine piano: Qwen vs DeepSeek",
+        "zh": "代码弹奏茉莉花：Qwen 与 DeepSeek",
+        "ja": "茉莉花のピアノ演奏：Qwen と DeepSeek"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max",
+      "creator": "leppppp1",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/leppppp1/status/2122260637015294428",
+      "publishedAt": "Mon Nov 16 09:29:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/jasmine-piano-294428",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/jasmine-piano-294428/video-6bf47f7ad5e1.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/jasmine-piano-294428/poster-bc454c8621ef.jpg",
+          "mediaKey": "13_2122245558350082049",
+          "durationSeconds": 71.317333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122245558350082049/vid/avc1/720x900/LNwuozZ5KrXp81m1.mp4?tag=29",
+          "sha256": "6bf47f7ad5e1e7f79dd0213e45fd01a22933f2d7373f7a5f942cdac8a7283f5f",
+          "posterSha256": "bc454c8621ef8dd1cb0240617b7e3114c7c2af4dd53e5dfcfb9e4f517d4f9d27",
+          "bytes": 2490157,
+          "posterBytes": 51614,
+          "hasAudio": true,
+          "width": 720,
+          "height": 900
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/jasmine-piano-294428/poster-bc454c8621ef.jpg"
+    },
+    {
+      "id": "sandbox-village-459841",
+      "title": {
+        "en": "2D sandbox village: Qwen vs Gemini",
+        "zh": "2D 沙盒村庄：Qwen 与 Gemini",
+        "ja": "2D サンドボックス村：Qwen と Gemini"
+      },
+      "category": "game",
+      "model": "Qwen4-Max",
+      "creator": "marcthecreatorr",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/marcthecreatorr/status/2122266495216459841",
+      "publishedAt": "Mon Nov 16 09:52:16 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/sandbox-village-459841",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/sandbox-village-459841/video-15e68c9a7bab.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/sandbox-village-459841/poster-436f410c9d2c.jpg",
+          "mediaKey": "13_2122266215494152192",
+          "durationSeconds": 54.659773,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122266215494152192/vid/avc1/842x720/HHaWpiPGdmLhnpKH.mp4?tag=29",
+          "sha256": "15e68c9a7bab2359c0743405ef54aa09a0be5543b24dfbe27e9c792b099431a7",
+          "posterSha256": "436f410c9d2cd38a38741095f6747edf549bcb1ad5287ccf748f1533726d93f9",
+          "bytes": 12511809,
+          "posterBytes": 182899,
+          "hasAudio": true,
+          "width": 842,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/sandbox-village-459841/poster-436f410c9d2c.jpg"
+    },
+    {
+      "id": "titanic-scene-524468",
+      "title": {
+        "en": "Titanic scene in 3D",
+        "zh": "3D 泰坦尼克号场景",
+        "ja": "3D で再現するタイタニックの場面"
+      },
+      "category": "film",
+      "model": "Qwen4-Max",
+      "creator": "Aurora0x3f",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/Aurora0x3f/status/2122260111502524468",
+      "publishedAt": "Mon Nov 16 09:26:54 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/titanic-scene-524468",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/titanic-scene-524468/video-abd5f9b80a8c.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/titanic-scene-524468/poster-337cea795fb0.jpg",
+          "mediaKey": "13_2122254387515097088",
+          "durationSeconds": 92.053333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122254387515097088/vid/avc1/1280x720/tALd4Xycq0K0MHKy.mp4?tag=29",
+          "sha256": "abd5f9b80a8cf49407bf47bbbc1e39f8bdce427f113cb74834a9d22e16e96483",
+          "posterSha256": "337cea795fb01b76cbd9031cfa92f388aa1e6dc07371c48e80e63612486bf364",
+          "bytes": 16869064,
+          "posterBytes": 64798,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/titanic-scene-524468/poster-337cea795fb0.jpg"
+    },
+    {
+      "id": "up-house-comparison-033620",
+      "title": {
+        "en": "Up house: model comparison",
+        "zh": "飞屋环游记小屋：模型对比",
+        "ja": "カールじいさんの家：モデル比較"
+      },
+      "category": "architecture",
+      "model": "Qwen4-Max",
+      "creator": "noclipepe",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/noclipepe/status/2122253925588033620",
+      "publishedAt": "Mon Nov 16 09:02:20 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/up-house-comparison-033620",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/up-house-comparison-033620/video-ddee0111be8e.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/up-house-comparison-033620/poster-2738660a36e7.jpg",
+          "mediaKey": "13_2122251808227651584",
+          "durationSeconds": 36.966168,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122251808227651584/vid/avc1/1080x720/lbhYpD1hM_0rTiCB.mp4?tag=29",
+          "sha256": "ddee0111be8ec58be196f8697894aaa8c662386ab3b67d7aaa3ef63ff566da67",
+          "posterSha256": "2738660a36e7ff5b289c272d84105e5dff3bd9c672818a0bee2f634d557bc812",
+          "bytes": 3727511,
+          "posterBytes": 100140,
+          "hasAudio": true,
+          "width": 1080,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/up-house-comparison-033620/poster-2738660a36e7.jpg"
+    },
+    {
+      "id": "alpine-ski-village-349037",
+      "title": {
+        "en": "Alpine ski village diorama",
+        "zh": "阿尔卑斯滑雪村沙盘",
+        "ja": "アルプスのスキー村のジオラマ"
+      },
+      "category": "architecture",
+      "model": "Qwen4-Max",
+      "creator": "manateelazycat",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/manateelazycat/status/2122244867099349037",
+      "publishedAt": "Mon Nov 16 08:26:20 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/alpine-ski-village-349037",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/alpine-ski-village-349037/video-db46db33c42d.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/alpine-ski-village-349037/poster-c64c1241ad69.jpg",
+          "mediaKey": "13_2122244589532921857",
+          "durationSeconds": 24.448,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122244589532921857/vid/avc1/960x720/MyHubTwCxh01f2am.mp4?tag=29",
+          "sha256": "db46db33c42d658bb95687e5732f1bd2d9da9f57bfe0df2d2eaf06df45d4a10c",
+          "posterSha256": "c64c1241ad6919429e831bc2bf352de5318af4b05c310e2a0fcdb2153cf15164",
+          "bytes": 3067268,
+          "posterBytes": 85150,
+          "hasAudio": true,
+          "width": 960,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/alpine-ski-village-349037/poster-c64c1241ad69.jpg"
+    },
+    {
+      "id": "tiki-island-492126",
+      "title": {
+        "en": "Isometric Tiki island",
+        "zh": "等距视角 Tiki 岛",
+        "ja": "アイソメトリックな Tiki 島"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max",
+      "creator": "debugsenpai",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/debugsenpai/status/2122232158513492126",
+      "publishedAt": "Mon Nov 16 07:35:50 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/tiki-island-492126",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/tiki-island-492126/video-b5533431a811.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/tiki-island-492126/poster-3cbed6f26641.jpg",
+          "mediaKey": "13_2122231970684153856",
+          "durationSeconds": 44.350113,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122231970684153856/vid/avc1/1328x720/4IUx-6ONzEQAJhT4.mp4?tag=29",
+          "sha256": "b5533431a8117a6cd36cec2c4dba748aa53d993445e9f6c8d28790c15c8e1830",
+          "posterSha256": "3cbed6f26641b7632dd0dee025d5370e3e2110d6ddccb35a0d39d8135dbdb09a",
+          "bytes": 4256784,
+          "posterBytes": 73168,
+          "hasAudio": true,
+          "width": 1328,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/tiki-island-492126/poster-3cbed6f26641.jpg"
+    },
+    {
+      "id": "controller-comparison-590204",
+      "title": {
+        "en": "PS5 controller: Qwen vs GPT",
+        "zh": "PS5 手柄：Qwen 与 GPT",
+        "ja": "PS5 コントローラー：Qwen と GPT"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max",
+      "creator": "Stargridcompass",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/Stargridcompass/status/2122229600071590204",
+      "publishedAt": "Mon Nov 16 07:25:40 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/controller-comparison-590204",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/controller-comparison-590204/video-16079e82c337.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/controller-comparison-590204/poster-a02eb6ecdcc9.jpg",
+          "mediaKey": "13_2122228655640264704",
+          "durationSeconds": 31.137959,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122228655640264704/vid/avc1/720x960/ilocRd3N6XMZL34u.mp4?tag=29",
+          "sha256": "16079e82c337005799f53c3832b0e64d0fca4d9f93d09bb64aeeade025510496",
+          "posterSha256": "a02eb6ecdcc9d7fae31a51cc487f2fb4c78a72a6d84dcc6df73011a74842e445",
+          "bytes": 1518322,
+          "posterBytes": 70506,
+          "hasAudio": true,
+          "width": 720,
+          "height": 960
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/controller-comparison-590204/poster-a02eb6ecdcc9.jpg"
+    },
+    {
+      "id": "logging-truck-comparison-593923",
+      "title": {
+        "en": "Mountain logging truck: model comparison",
+        "zh": "山谷运木卡车：模型对比",
+        "ja": "山道を走る木材運搬車：モデル比較"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max",
+      "creator": "Aurora0x3f",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/Aurora0x3f/status/2122213713650593923",
+      "publishedAt": "Mon Nov 16 06:22:32 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/logging-truck-comparison-593923",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/logging-truck-comparison-593923/video-ba7bb7e6b551.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/logging-truck-comparison-593923/poster-606c1ad0d850.jpg",
+          "mediaKey": "13_2122210853999312896",
+          "durationSeconds": 20.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122210853999312896/vid/avc1/1182x720/zp9SfQT_jiJPF49g.mp4?tag=29",
+          "sha256": "ba7bb7e6b5513272a8cce82c8173ea269e0adc83b2de79dd79b1aaefc6341c90",
+          "posterSha256": "606c1ad0d850dc0a8007a1612eab55dbf3f5b5e4d3ad7665c058f6150b7dba5f",
+          "bytes": 3346621,
+          "posterBytes": 81186,
+          "hasAudio": false,
+          "width": 1182,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/logging-truck-comparison-593923/poster-606c1ad0d850.jpg"
+    },
+    {
+      "id": "seaside-boardwalk-933633",
+      "title": {
+        "en": "Seaside boardwalk diorama",
+        "zh": "海滨栈道沙盘",
+        "ja": "海辺の遊歩道のジオラマ"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "ItsmeAjayKV",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/ItsmeAjayKV/status/2122207033885933633",
+      "publishedAt": "Mon Nov 16 05:56:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/seaside-boardwalk-933633",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/seaside-boardwalk-933633/video-a48e7ccf6885.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/seaside-boardwalk-933633/poster-5748d70bd3a7.jpg",
+          "mediaKey": "13_2122201052896526336",
+          "durationSeconds": 47.338667,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122201052896526336/vid/avc1/1280x720/sBBbvM25hOjfdjiV.mp4?tag=29",
+          "sha256": "a48e7ccf6885ad43c1c5e8a7e9a0fb6e837b120a9428c3eadbce744a1689b21b",
+          "posterSha256": "5748d70bd3a700ceb0216497a59d0fe435e7329bb6689703dce5e467803143a0",
+          "bytes": 7945427,
+          "posterBytes": 68617,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/seaside-boardwalk-933633/poster-5748d70bd3a7.jpg"
+    },
+    {
+      "id": "earth-data-comparison-471251",
+      "title": {
+        "en": "Earth visualization: Qwen vs GPT",
+        "zh": "地球可视化：Qwen 与 GPT",
+        "ja": "地球の可視化：Qwen と GPT"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max",
+      "creator": "Stargridcompass",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/Stargridcompass/status/2122206489280471251",
+      "publishedAt": "Mon Nov 16 05:53:50 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/earth-data-comparison-471251",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/earth-data-comparison-471251/video-9a9349a5f4af.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/earth-data-comparison-471251/poster-11c956387ac9.jpg",
+          "mediaKey": "13_2122205570753032192",
+          "durationSeconds": 40.86712,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122205570753032192/vid/avc1/720x960/KtxNiWi3zZbe1cgg.mp4?tag=29",
+          "sha256": "9a9349a5f4af97d335a070904b22752209218c8e098828dab818f5800bb02b8e",
+          "posterSha256": "11c956387ac9685081beebde012477143aac8c69aa192585f9a48b35598b1cb9",
+          "bytes": 3759512,
+          "posterBytes": 103714,
+          "hasAudio": true,
+          "width": 720,
+          "height": 960
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/earth-data-comparison-471251/poster-11c956387ac9.jpg"
+    },
+    {
+      "id": "mechanical-octopus-036396",
+      "title": {
+        "en": "Mechanical octopus",
+        "zh": "机械章鱼",
+        "ja": "機械のタコ"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max-Preview",
+      "creator": "mspd4100",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/mspd4100/status/2122202467891036396",
+      "publishedAt": "Mon Nov 16 05:37:51 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/mechanical-octopus-036396",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/mechanical-octopus-036396/video-965a078d3250.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/mechanical-octopus-036396/poster-aa1bafea77b9.jpg",
+          "mediaKey": "13_2122202178647662592",
+          "durationSeconds": 25.045333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122202178647662592/vid/avc1/1280x720/uuf9UGEp_mqtIaZn.mp4?tag=29",
+          "sha256": "965a078d3250638c8d7d7ac3a054d90a669148ad27c775123ee70687cf97c357",
+          "posterSha256": "aa1bafea77b983130837c834d3ed037b51203fdc0cad98a8094c2bf2159a2da4",
+          "bytes": 5248475,
+          "posterBytes": 86737,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/mechanical-octopus-036396/poster-aa1bafea77b9.jpg"
+    },
+    {
+      "id": "rainy-neon-window-463971",
+      "title": {
+        "en": "Rain on a neon-lit window",
+        "zh": "霓虹窗前的雨滴",
+        "ja": "ネオンに照らされた窓の雨"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max",
+      "creator": "wikiwayne",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/wikiwayne/status/2122200491312463971",
+      "publishedAt": "Mon Nov 16 05:30:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/rainy-neon-window-463971",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/rainy-neon-window-463971/video-257c34d440de.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/rainy-neon-window-463971/poster-a8c9ba8915ca.jpg",
+          "mediaKey": "13_2122178311702958080",
+          "durationSeconds": 56.042667,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122178311702958080/vid/avc1/1280x720/sSI3zqMgqpXVTZON.mp4?tag=29",
+          "sha256": "257c34d440dea32412beaa43087dc98cc4c84bbfd1e5b3082680ea865f24a536",
+          "posterSha256": "a8c9ba8915caa02744afcf33c5a548b9be37b73edd79de81f7b5427dbd26024e",
+          "bytes": 4529493,
+          "posterBytes": 63977,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/rainy-neon-window-463971/poster-a8c9ba8915ca.jpg"
+    },
+    {
+      "id": "snake-game-692671",
+      "title": {
+        "en": "Browser snake game",
+        "zh": "浏览器贪吃蛇",
+        "ja": "ブラウザーのスネークゲーム"
+      },
+      "category": "game",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "665162",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/665162/status/2122199429482692671",
+      "publishedAt": "Mon Nov 16 05:25:47 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/snake-game-692671",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/snake-game-692671/video-aa9023832b5b.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/snake-game-692671/poster-724862e91d87.jpg",
+          "mediaKey": "13_2122197827350925312",
+          "durationSeconds": 53.777415,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122197827350925312/vid/avc1/720x822/f_r0UDM3k5rXX_lm.mp4?tag=29",
+          "sha256": "aa9023832b5bd7a5ad1ad5f57f4ceb3383dbe6df624d1081f55c020cc3ccee80",
+          "posterSha256": "724862e91d87d5e2e898d7e51b3c9299755bf973a2c05162cd424aa4b1e7eb55",
+          "bytes": 2009800,
+          "posterBytes": 55977,
+          "hasAudio": true,
+          "width": 720,
+          "height": 822
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/snake-game-692671/poster-724862e91d87.jpg"
+    },
+    {
+      "id": "passionflower-335251",
+      "title": {
+        "en": "Procedurally drawn passionflower",
+        "zh": "程序绘制西番莲",
+        "ja": "コードで描くトケイソウ"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max",
+      "creator": "InCartersEyes",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/InCartersEyes/status/2122190090512335251",
+      "publishedAt": "Mon Nov 16 04:48:40 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/passionflower-335251",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/passionflower-335251/video-fb9fefeb96d4.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/passionflower-335251/poster-2a663cdaf849.jpg",
+          "mediaKey": "13_2122190076230664192",
+          "durationSeconds": 12.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122190076230664192/vid/avc1/720x720/zvr-BNRnDQHL1r39.mp4?tag=29",
+          "sha256": "fb9fefeb96d4f8430b29cfac85425846fcb61faf0150ca7ffc256edbb188b26b",
+          "posterSha256": "2a663cdaf849b12eecd8cf9f72777e351357472c6c3dec78d2dfb1575a9815ba",
+          "bytes": 226880,
+          "posterBytes": 38882,
+          "hasAudio": false,
+          "width": 720,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/passionflower-335251/poster-2a663cdaf849.jpg"
+    },
+    {
+      "id": "growing-geode-027335",
+      "title": {
+        "en": "A geode opens and grows crystals",
+        "zh": "晶洞裂开与晶体生长",
+        "ja": "割れて結晶が育つジオード"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max",
+      "creator": "wikiwayne",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/wikiwayne/status/2122189166218027335",
+      "publishedAt": "Mon Nov 16 04:45:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/growing-geode-027335",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/growing-geode-027335/video-7f01217223d0.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/growing-geode-027335/poster-914b3ae263eb.jpg",
+          "mediaKey": "13_2122177841802391552",
+          "durationSeconds": 54.058667,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122177841802391552/vid/avc1/1280x720/JmJ7j9b6HwimmYpP.mp4?tag=29",
+          "sha256": "7f01217223d07d562cb75046ca8f4882470d1dd026b77dc906dc0b00b4a77d17",
+          "posterSha256": "914b3ae263ebdf6cf719f7acaa9dc8f7763adcbc38336cab8a83819330d388d5",
+          "bytes": 5221769,
+          "posterBytes": 65003,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/growing-geode-027335/poster-914b3ae263eb.jpg"
+    },
+    {
+      "id": "solar-system-animation-404080",
+      "title": {
+        "en": "Animated solar system",
+        "zh": "太阳系动画",
+        "ja": "太陽系のアニメーション"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max",
+      "creator": "he1000se",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/he1000se/status/2122187692817404080",
+      "publishedAt": "Mon Nov 16 04:39:08 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/solar-system-animation-404080",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "OpenCode"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/solar-system-animation-404080/video-25fe41141484.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/solar-system-animation-404080/poster-68844401e65c.jpg",
+          "mediaKey": "13_2122187545802887169",
+          "durationSeconds": 28.202667,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122187545802887169/vid/avc1/1280x720/0BfLZiVduMTecPsw.mp4?tag=14",
+          "sha256": "25fe4114148420c02c958a1bed5ae199fcecc3d3e9729b565a45c9827804a485",
+          "posterSha256": "68844401e65c61b747ccd1c56d3b90809af4b69e78d7c0273f173822775f7406",
+          "bytes": 2231438,
+          "posterBytes": 53814,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/solar-system-animation-404080/poster-68844401e65c.jpg"
+    },
+    {
+      "id": "time-flashlight-920447",
+      "title": {
+        "en": "Time is a flashlight: model comparison",
+        "zh": "时间手电筒：模型对比",
+        "ja": "時間を照らす懐中電灯：モデル比較"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max",
+      "creator": "Densitylucky",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/Densitylucky/status/2122186925343920447",
+      "publishedAt": "Mon Nov 16 04:36:05 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/time-flashlight-920447",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/time-flashlight-920447/video-c21d6ec82f6a.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/time-flashlight-920447/poster-0370aaee295f.jpg",
+          "mediaKey": "13_2122186861125025792",
+          "durationSeconds": 41.308299,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122186861125025792/vid/avc1/720x960/uT45dDVLH3Rjmew0.mp4?tag=29",
+          "sha256": "c21d6ec82f6a5e77c9990180e957a0a1f1d730a5803334e6290a91868c27ec51",
+          "posterSha256": "0370aaee295fae6cc6501e122db4d05b9429d513d51686fbda94bef2467e1eb9",
+          "bytes": 2040793,
+          "posterBytes": 80495,
+          "hasAudio": true,
+          "width": 720,
+          "height": 960
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/time-flashlight-920447/poster-0370aaee295f.jpg"
+    },
+    {
+      "id": "jellyfish-harness-comparison-715706",
+      "title": {
+        "en": "Glowing jellyfish: two coding tools",
+        "zh": "发光水母：两种编程工具对比",
+        "ja": "光るクラゲ：2 つのコーディングツールの比較"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max",
+      "creator": "superalesha",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/superalesha/status/2120718224031715706",
+      "publishedAt": "Thu Nov 12 03:20:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/jellyfish-harness-comparison-715706",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Three.js",
+        "DeepSeek Harness",
+        "Qwen Code"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/jellyfish-harness-comparison-715706/video-b1cc08ea1cfd.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/jellyfish-harness-comparison-715706/poster-c81611b950f4.jpg",
+          "mediaKey": "13_2120667425259638784",
+          "durationSeconds": 37.290667,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120667425259638784/vid/avc1/720x1280/bWwAcDDsllL1FR5B.mp4?tag=29",
+          "sha256": "b1cc08ea1cfdaed6dbc1b8f6c9d52af5503cc9c2293b44dd3cbe97bcb92859aa",
+          "posterSha256": "c81611b950f479c72056eeb96ba3fcbd531a98e007282439eca1908157cf84d9",
+          "bytes": 5649704,
+          "posterBytes": 53063,
+          "hasAudio": true,
+          "width": 720,
+          "height": 1280
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/jellyfish-harness-comparison-715706/poster-c81611b950f4.jpg"
+    },
+    {
+      "id": "playful-fuzzy-icons-691323",
+      "title": {
+        "en": "Fuzzy icons and a bouncing ball",
+        "zh": "毛绒图标与弹跳小球",
+        "ja": "ふわふわのアイコンと弾むボール"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max-Preview",
+      "creator": "CodeByPoonam",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/CodeByPoonam/status/2121231257346691323",
+      "publishedAt": "Fri Nov 13 13:18:36 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/playful-fuzzy-icons-691323",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/playful-fuzzy-icons-691323/video-b22da1a8472e.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/playful-fuzzy-icons-691323/poster-bcbc0e781d2d.jpg",
+          "mediaKey": "13_2121231233757872128",
+          "durationSeconds": 14.2,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121231233757872128/vid/avc1/1280x720/I7VLDpDInnUaBnVn.mp4?tag=16",
+          "sha256": "b22da1a8472e77d93cff2bc33e709276252687bfea93dd6891786e83c0d4d8b9",
+          "posterSha256": "bcbc0e781d2d21b8a7babd08bd564971860ba565f1d10a2b32afc079fd98d956",
+          "bytes": 969043,
+          "posterBytes": 39856,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/playful-fuzzy-icons-691323/poster-bcbc0e781d2d.jpg"
+    },
+    {
+      "id": "emberfall-isle-570832",
+      "title": {
+        "en": "Emberfall Isle at sunset",
+        "zh": "夕阳下的 Emberfall 浮岛",
+        "ja": "夕日に染まる Emberfall の島"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "iam_chonchol",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/iam_chonchol/status/2120930740158570832",
+      "publishedAt": "Thu Nov 12 17:24:28 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/emberfall-isle-570832",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/emberfall-isle-570832/video-3fe0ad646e00.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/emberfall-isle-570832/poster-b84986218c42.jpg",
+          "mediaKey": "13_2120930710701936640",
+          "durationSeconds": 17.633333,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120930710701936640/vid/avc1/1280x720/jNZ0LtINQOm-TYvH.mp4?tag=16",
+          "sha256": "3fe0ad646e00244346c346953836363e19e1e99c68b2201470e161134568a95d",
+          "posterSha256": "b84986218c4298091a161c7e21ac1ab36eff9145bd3db29a014611769975d028",
+          "bytes": 1256266,
+          "posterBytes": 61325,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/emberfall-isle-570832/poster-b84986218c42.jpg"
+    },
+    {
+      "id": "jiangnan-courtyard-494031",
+      "title": {
+        "en": "Moonlit Jiangnan courtyard",
+        "zh": "月下江南庭院",
+        "ja": "月明かりの江南庭園"
+      },
+      "category": "architecture",
+      "model": "Qwen4-Max-Preview",
+      "creator": "bozhou_ai",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/bozhou_ai/status/2120528130599494031",
+      "publishedAt": "Wed Nov 11 14:44:38 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/jiangnan-courtyard-494031",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Blender",
+        "Qoder"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/jiangnan-courtyard-494031/video-249dddd028c8.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/jiangnan-courtyard-494031/poster-deb117f0bfe0.jpg",
+          "mediaKey": "13_2120527072565354496",
+          "durationSeconds": 12.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120527072565354496/vid/avc1/1280x720/9FPCc-YNRV0pIuQH.mp4?tag=29",
+          "sha256": "249dddd028c8f94c0553a7420bb9e87dfd9cd5b26522aa13fcc84f6af6d132cd",
+          "posterSha256": "deb117f0bfe02ce01f7a05e06975d1d9460a5055180b36750e368ea0d0663177",
+          "bytes": 1773034,
+          "posterBytes": 80057,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/jiangnan-courtyard-494031/poster-deb117f0bfe0.jpg"
+    },
+    {
+      "id": "navier-stokes-fluid-659401",
+      "title": {
+        "en": "Mouse-painted fluid simulation",
+        "zh": "鼠标绘制流体模拟",
+        "ja": "マウスで描く流体シミュレーション"
+      },
+      "category": "explainer",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "aijoey",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/aijoey/status/2118760101263659401",
+      "publishedAt": "Fri Nov 06 17:39:07 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/navier-stokes-fluid-659401",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/navier-stokes-fluid-659401/video-e9bebaa1719b.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/navier-stokes-fluid-659401/poster-1bde79f6b65a.jpg",
+          "mediaKey": "13_2118759527096934401",
+          "durationSeconds": 56.03,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2118759527096934401/vid/avc1/1138x720/ohZkH1cEchu5oKgx.mp4?tag=29",
+          "sha256": "e9bebaa1719bb2f2a80850694cc1aad798b62025298633d506a3c1dbbb97b52e",
+          "posterSha256": "1bde79f6b65a3948212db9912239880c3fed42fe4eb1cf3d2c52106732c4d2d6",
+          "bytes": 6884451,
+          "posterBytes": 34899,
+          "hasAudio": true,
+          "width": 1138,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/navier-stokes-fluid-659401/poster-1bde79f6b65a.jpg"
+    },
+    {
+      "id": "ink-water-comparison-271979",
+      "title": {
+        "en": "Ink in water: two coding tools",
+        "zh": "水中墨迹：两种编程工具对比",
+        "ja": "水中のインク：2 つのコーディングツールの比較"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max-Preview",
+      "creator": "superalesha",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/superalesha/status/2120557983365271979",
+      "publishedAt": "Wed Nov 11 16:43:15 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/ink-water-comparison-271979",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "DeepSeek Harness",
+        "Qwen Code"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/ink-water-comparison-271979/video-9acd22e7d3d1.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/ink-water-comparison-271979/poster-5cb3fd4b2246.jpg",
+          "mediaKey": "13_2120555720798355460",
+          "durationSeconds": 22.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120555720798355460/vid/avc1/1280x720/zvo_NZdjHk9pSiWg.mp4?tag=29",
+          "sha256": "9acd22e7d3d1ab9300a56e75a4b5cdc269461dc0393614975d7d13b021efd7ae",
+          "posterSha256": "5cb3fd4b22465a90aaa1c4087cf34f8466a296d22d8d9f35f96a5f9bfb6cbb6a",
+          "bytes": 616392,
+          "posterBytes": 46726,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/ink-water-comparison-271979/poster-5cb3fd4b2246.jpg"
+    },
+    {
+      "id": "four-stroke-engine-409754",
+      "title": {
+        "en": "Four-stroke engine animation",
+        "zh": "四冲程发动机动画",
+        "ja": "4 ストロークエンジンのアニメーション"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max-Preview",
+      "creator": "loktar00",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/loktar00/status/2118816945508409754",
+      "publishedAt": "Fri Nov 06 21:25:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/four-stroke-engine-409754",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/four-stroke-engine-409754/video-35460d24711a.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/four-stroke-engine-409754/poster-b71912d122bf.jpg",
+          "mediaKey": "13_2118813277601800192",
+          "durationSeconds": 30.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2118813277601800192/vid/avc1/1280x720/o6ngT8GRIawUznp9.mp4?tag=29",
+          "sha256": "35460d24711a886f3b001a211c72c83a5eafe69928f4e4f077b8da2d998eb616",
+          "posterSha256": "b71912d122bf46cd05152daaca0ccb24af965e5c5c96b72e635dc07cce3219f3",
+          "bytes": 3304451,
+          "posterBytes": 136489,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/four-stroke-engine-409754/poster-b71912d122bf.jpg"
+    },
+    {
+      "id": "duckpond-village-887445",
+      "title": {
+        "en": "Duckpond: a village through four seasons",
+        "zh": "Duckpond：四季鸭塘村庄",
+        "ja": "Duckpond：四季を巡るアヒルの村"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "jumperz",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/jumperz/status/2120559352515887445",
+      "publishedAt": "Wed Nov 11 16:48:42 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/duckpond-village-887445",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/duckpond-village-887445/video-5f869d032024.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/duckpond-village-887445/poster-8cd1cc9d5dc1.jpg",
+          "mediaKey": "13_2120559169791008769",
+          "durationSeconds": 30.7,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120559169791008769/vid/avc1/1280x720/LLfBcpTe91dX6XIY.mp4?tag=29",
+          "sha256": "5f869d032024046a034e3c36b3e05c8cabd8ea57930a9e606c5fb172c5544b39",
+          "posterSha256": "8cd1cc9d5dc1995a6c04d6364242b603d26930f4c34144746db19b91b91d6c0b",
+          "bytes": 3143095,
+          "posterBytes": 56397,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/duckpond-village-887445/poster-8cd1cc9d5dc1.jpg"
+    },
+    {
+      "id": "neon-drift-196590",
+      "title": {
+        "en": "Neon Drift asteroid game",
+        "zh": "Neon Drift 太空躲避游戏",
+        "ja": "Neon Drift：小惑星を避けるゲーム"
+      },
+      "category": "game",
+      "model": "Qwen4-Max-Preview",
+      "creator": "alifcoder",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/alifcoder/status/2120537320399196590",
+      "publishedAt": "Wed Nov 11 15:21:09 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/neon-drift-196590",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/neon-drift-196590/video-75b1d069de13.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/neon-drift-196590/poster-69f38cdcf98a.jpg",
+          "mediaKey": "13_2120537295707361280",
+          "durationSeconds": 21.4,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120537295707361280/vid/avc1/1280x720/Y_9_V-ncuuNDo4Mm.mp4?tag=16",
+          "sha256": "75b1d069de13d08f215f8fbc0f4829069b67d4f18ab561d86e13964174284668",
+          "posterSha256": "69f38cdcf98a700195fc3315c3ef132568babbc57cfbb959786aca8d8769cbd5",
+          "bytes": 1234463,
+          "posterBytes": 28098,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/neon-drift-196590/poster-69f38cdcf98a.jpg"
+    },
+    {
+      "id": "interactive-solar-system-836897",
+      "title": {
+        "en": "Interactive 3D solar system",
+        "zh": "交互式 3D 太阳系",
+        "ja": "操作できる 3D 太陽系"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max-Preview",
+      "creator": "dylannknox",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/dylannknox/status/2120838990412836897",
+      "publishedAt": "Thu Nov 12 11:19:53 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/interactive-solar-system-836897",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/interactive-solar-system-836897/video-eaa9c0dca7eb.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/interactive-solar-system-836897/poster-e417c06c4599.jpg",
+          "mediaKey": "13_2120838968090697728",
+          "durationSeconds": 15.296,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120838968090697728/vid/avc1/1524x720/AEmDu9A_KktgoO0F.mp4?tag=16",
+          "sha256": "eaa9c0dca7eb8a8a345c384d0cfe27b62cf0ba54c581fcb49b3f434a7eb86bc3",
+          "posterSha256": "e417c06c45991d97687bce26fdbcf418b66600bce79d2f2e508c71d50f919cf3",
+          "bytes": 2185987,
+          "posterBytes": 36007,
+          "hasAudio": true,
+          "width": 1524,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/interactive-solar-system-836897/poster-e417c06c4599.jpg"
+    },
+    {
+      "id": "velocity-showroom-876923",
+      "title": {
+        "en": "Velocity 3D car showroom",
+        "zh": "Velocity 3D 汽车展厅",
+        "ja": "Velocity 3D カーショールーム"
+      },
+      "category": "workflow",
+      "model": "Qwen4-Max-Preview",
+      "creator": "manishkumar_dev",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/manishkumar_dev/status/2120503018403876923",
+      "publishedAt": "Wed Nov 11 13:04:51 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/velocity-showroom-876923",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/velocity-showroom-876923/video-e3229e5c90f4.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/velocity-showroom-876923/poster-a1cdc0bb23bc.jpg",
+          "mediaKey": "13_2120502960325287936",
+          "durationSeconds": 104.1,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120502960325287936/vid/avc1/1280x720/E7-0oBflztPi8zRZ.mp4?tag=16",
+          "sha256": "e3229e5c90f4d90b92fafed32ad243546b7fdec46c21c84d0d1d13ec9603b503",
+          "posterSha256": "a1cdc0bb23bc03a1d10ffa14dc89f9e7fe207dca683717f43c14366cdfb99f7b",
+          "bytes": 10091795,
+          "posterBytes": 86648,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/velocity-showroom-876923/poster-a1cdc0bb23bc.jpg"
+    },
+    {
+      "id": "city-night-to-sunrise-473027",
+      "title": {
+        "en": "City lights from night to sunrise",
+        "zh": "城市从夜色到日出",
+        "ja": "夜から日の出へ変わる街"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max-Preview",
+      "creator": "sean_wallace_",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/sean_wallace_/status/2120838962386473027",
+      "publishedAt": "Thu Nov 12 11:19:46 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/city-night-to-sunrise-473027",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/city-night-to-sunrise-473027/video-0e1bb6a4d439.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/city-night-to-sunrise-473027/poster-5171838bf184.jpg",
+          "mediaKey": "13_2120838945319895040",
+          "durationSeconds": 11.690667,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120838945319895040/vid/avc1/1476x720/4S3umbI_e9tTgcbT.mp4?tag=16",
+          "sha256": "0e1bb6a4d43982498cd64131805989c5ab098204339f3d8c3107a087aec53f3e",
+          "posterSha256": "5171838bf184cb1f228540f3d6495cf9365b17152f7c7ad43c9f1798c9f39d19",
+          "bytes": 641738,
+          "posterBytes": 70419,
+          "hasAudio": true,
+          "width": 1476,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/city-night-to-sunrise-473027/poster-5171838bf184.jpg"
+    },
+    {
+      "id": "salt-widow-330015",
+      "title": {
+        "en": "The Salt Widow pirate ship",
+        "zh": "Salt Widow 海盗船",
+        "ja": "海賊船 The Salt Widow"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "iam_elias1",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/iam_elias1/status/2120513935577330015",
+      "publishedAt": "Wed Nov 11 13:48:14 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/salt-widow-330015",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/salt-widow-330015/video-84f33a3bbcf6.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/salt-widow-330015/poster-b6cecf7fd830.jpg",
+          "mediaKey": "13_2120513812625489920",
+          "durationSeconds": 45.767007,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120513812625489920/vid/avc1/1346x720/gjMtahadO4P2JUeX.mp4?tag=29",
+          "sha256": "84f33a3bbcf66632ec56595f091b356c071f19d61513cb0d9272372599c47184",
+          "posterSha256": "b6cecf7fd83025bd1a58e307d8dcae4cc3c64b13cf22078287310a7daadbab1d",
+          "bytes": 9518177,
+          "posterBytes": 75285,
+          "hasAudio": true,
+          "width": 1346,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/salt-widow-330015/poster-b6cecf7fd830.jpg"
+    },
+    {
+      "id": "medieval-castle-953888",
+      "title": {
+        "en": "Medieval castle built with Qwen Code",
+        "zh": "Qwen Code 构建中世纪城堡",
+        "ja": "Qwen Code で作る中世の城"
+      },
+      "category": "architecture",
+      "model": "Qwen4-Max-Preview",
+      "creator": "loktar00",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/loktar00/status/2119193426419953888",
+      "publishedAt": "Sat Nov 07 22:21:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/medieval-castle-953888",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qwen Code"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/medieval-castle-953888/video-c99a98ecbbe7.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/medieval-castle-953888/poster-ce7fde37c46f.jpg",
+          "mediaKey": "13_2119133201893294080",
+          "durationSeconds": 30.0,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2119133201893294080/vid/avc1/1280x720/Iv5IokfKmYGsDOzA.mp4?tag=29",
+          "sha256": "c99a98ecbbe75125354f1f929a46b769f7ecaf2c75cc8fd9eed5dbd09584efa8",
+          "posterSha256": "ce7fde37c46f1c80b3e76945574f9f08f93bcc7cf295a8cf0dbf11b3c092325e",
+          "bytes": 2312013,
+          "posterBytes": 153602,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/medieval-castle-953888/poster-ce7fde37c46f.jpg"
+    },
+    {
+      "id": "island-conservatory-592258",
+      "title": {
+        "en": "Floating island with a glass conservatory",
+        "zh": "带玻璃温室的浮岛",
+        "ja": "ガラス温室がある浮島"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "yyyole",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/yyyole/status/2120482243722592258",
+      "publishedAt": "Wed Nov 11 11:42:18 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/island-conservatory-592258",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/island-conservatory-592258/video-8bae5eda8e3e.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/island-conservatory-592258/poster-5b13bd004db3.jpg",
+          "mediaKey": "13_2120473720246702080",
+          "durationSeconds": 28.653424,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120473720246702080/vid/avc1/1190x720/fIz7fPkhTEyj4jO5.mp4?tag=29",
+          "sha256": "8bae5eda8e3ee6e7aac272f4de69e49ec9fa224632213cab61681a132f7ac3df",
+          "posterSha256": "5b13bd004db3cbf6dbdfba23d2467ec8ac27bed38694f9153deb5a7a6fe7c319",
+          "bytes": 3042035,
+          "posterBytes": 91210,
+          "hasAudio": true,
+          "width": 1190,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/island-conservatory-592258/poster-5b13bd004db3.jpg"
+    },
+    {
+      "id": "fpv-drone-simulator-511605",
+      "title": {
+        "en": "FPV drone simulator in acro mode",
+        "zh": "Acro 模式 FPV 无人机模拟器",
+        "ja": "Acro モードの FPV ドローンシミュレーター"
+      },
+      "category": "game",
+      "model": "Qwen4 (variant unspecified)",
+      "creator": "aijoey",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/aijoey/status/2118809899052511605",
+      "publishedAt": "Fri Nov 06 20:57:00 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/fpv-drone-simulator-511605",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/fpv-drone-simulator-511605/video-761b70566e00.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/fpv-drone-simulator-511605/poster-de8bd2a13f7d.jpg",
+          "mediaKey": "13_2118794930457907200",
+          "durationSeconds": 120.717,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2118794930457907200/vid/avc1/1214x720/RUdm6kpEbMokkWVI.mp4?tag=29",
+          "sha256": "761b70566e00554f61af6ff0a15e23f6594dd33dca0444b50444391e5d4a4601",
+          "posterSha256": "de8bd2a13f7de796240eab6b0ca90ef4afd1f838cb7ba265b3912f81c9a04a84",
+          "bytes": 22681435,
+          "posterBytes": 46217,
+          "hasAudio": true,
+          "width": 1214,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/fpv-drone-simulator-511605/poster-de8bd2a13f7d.jpg"
+    },
+    {
+      "id": "downhill-ski-game-409952",
+      "title": {
+        "en": "Downhill skiing mini game",
+        "zh": "高山滑雪小游戏",
+        "ja": "ダウンヒルスキーのミニゲーム"
+      },
+      "category": "game",
+      "model": "Qwen4-Max-Preview",
+      "creator": "atulkumarzz",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/atulkumarzz/status/2120509534649409952",
+      "publishedAt": "Wed Nov 11 13:30:44 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/downhill-ski-game-409952",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "not-published-or-not-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/downhill-ski-game-409952/video-6a56419d42b1.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/downhill-ski-game-409952/poster-7cfc630fb30b.jpg",
+          "mediaKey": "13_2120509456039755776",
+          "durationSeconds": 63.036933,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120509456039755776/vid/avc1/1152x720/tNO4nyyAlHgSo32L.mp4?tag=16",
+          "sha256": "6a56419d42b10b7b8c5c1ce88261742c4b4e9aee318742f5e22ae33decbde8b6",
+          "posterSha256": "7cfc630fb30b8defd2ea09131b3ccb0617d665e0e3f310dec5c3800c1b7be197",
+          "bytes": 7209758,
+          "posterBytes": 70196,
+          "hasAudio": false,
+          "width": 1152,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/downhill-ski-game-409952/poster-7cfc630fb30b.jpg"
+    },
+    {
+      "id": "sanxingdui-tree-346275",
+      "title": {
+        "en": "Interactive Sanxingdui bronze tree",
+        "zh": "可交互的三星堆青铜神树",
+        "ja": "操作できる三星堆の青銅神樹"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max-Preview",
+      "creator": "bengtatsu",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/bengtatsu/status/2120365514841346275",
+      "publishedAt": "Wed Nov 11 03:58:27 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/sanxingdui-tree-346275",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Three.js",
+        "Qoder"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/sanxingdui-tree-346275/video-7d2d6d3ab704.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/sanxingdui-tree-346275/poster-0549f1ba950f.jpg",
+          "mediaKey": "13_2120364708629032960",
+          "durationSeconds": 55.183,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2120364708629032960/vid/avc1/1146x720/CwpmFAPcXTQtlN_a.mp4?tag=29",
+          "sha256": "7d2d6d3ab7046d4c422617b5092e85ff536ef49e55d1b26bffcd6101045c274b",
+          "posterSha256": "0549f1ba950fd6d85f21375c79671a639184faea09a6053081d52daa056f202b",
+          "bytes": 5071270,
+          "posterBytes": 61272,
+          "hasAudio": false,
+          "width": 1146,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/sanxingdui-tree-346275/poster-0549f1ba950f.jpg"
+    },
+    {
+      "id": "chongqing-hotpot-887127",
+      "title": {
+        "en": "Interactive Chongqing hotpot",
+        "zh": "可交互的重庆火锅",
+        "ja": "操作できる重慶火鍋"
+      },
+      "category": "scene",
+      "model": "Qwen4-Max-Preview",
+      "creator": "bengtatsu",
+      "sourcePlatform": "X",
+      "originalPostUrl": "https://x.com/bengtatsu/status/2120466994457887127",
+      "publishedAt": "Wed Nov 11 10:41:42 +0000 2026",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/chongqing-hotpot-887127",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Qoder"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/chongqing-hotpot-887127/video-895dc4457214.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/chongqing-hotpot-887127/poster-0a574464f369.jpg",
+          "mediaKey": "13_2120466594568769537",
+          "durationSeconds": 79.061333,
+          "sourceUrl": "https://video-s.twimg.com/amplify_video/2120466594568769537/vid/avc1/1146x720/VGpSc79b8oxW0uhR.mp4?tag=29",
+          "sha256": "895dc445721456c4f4684a1d09708e39cf3444320458f7e5ed0cc168134b68f6",
+          "posterSha256": "0a574464f3690e3bf490838d2bf3e34410cd4634db5b39ce7ec52798b6549891",
+          "bytes": 7172046,
+          "posterBytes": 93603,
+          "hasAudio": true,
+          "width": 1146,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/chongqing-hotpot-887127/poster-0a574464f369.jpg"
+    },
+    {
+      "id": "marginalia-atlas-1xtymff",
+      "title": {
+        "en": "The Marginalia Atlas: interactive sketchbook",
+        "zh": "Marginalia Atlas：交互手绘笔记本",
+        "ja": "Marginalia Atlas：操作できるスケッチブック"
+      },
+      "category": "workflow",
+      "model": "Qwen4-Max-Preview",
+      "creator": "Dear_Lock_5280",
+      "sourcePlatform": "Reddit",
+      "originalPostUrl": "https://www.reddit.com/r/Qwen_AI/comments/1xtymff/qwen_4max_preview_vs_gpt_sol_61_max_webdev_test/",
+      "publishedAt": "2026-11-12T00:35:41+00:00",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/marginalia-atlas-1xtymff",
+      "modelEvidence": "creator-reported",
+      "workflow": [],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/marginalia-atlas-1xtymff/video-f4dd66d53ec4.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/marginalia-atlas-1xtymff/poster-36841ea796f4.jpg",
+          "mediaKey": "h7er2rxes21i1",
+          "durationSeconds": 59.166667,
+          "sourceUrl": "https://v.redd.it/link/1xtymff/asset/h7er2rxes21i1/HLSPlaylist.m3u8",
+          "sha256": "f4dd66d53ec4d815ff5810d0edacb8d6e9406e2b218d6d81927ae773f6f57f14",
+          "posterSha256": "36841ea796f4e880ef75283604310ead4e70b9ae494e533e01b2ee3a5b6a4c29",
+          "bytes": 9699402,
+          "posterBytes": 75825,
+          "hasAudio": false,
+          "width": 1152,
+          "height": 720
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/marginalia-atlas-1xtymff/poster-36841ea796f4.jpg"
+    },
+    {
+      "id": "webgl-solar-comparison-1xvg7sa",
+      "title": {
+        "en": "Raw WebGL solar system: model comparison",
+        "zh": "原生 WebGL 太阳系：模型对比",
+        "ja": "WebGL の太陽系：モデル比較"
+      },
+      "category": "explainer",
+      "model": "Qwen4-Max-Preview",
+      "creator": "Nynyso",
+      "sourcePlatform": "Reddit",
+      "originalPostUrl": "https://www.reddit.com/r/Qwen_AI/comments/1xvg7sa/so_i_tried_qwen_4_max_preview_sorry_for_the/",
+      "publishedAt": "2026-11-13T18:50:17+00:00",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/webgl-solar-comparison-1xvg7sa",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "WebGL",
+        "DeepSeek Harness"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/webgl-solar-comparison-1xvg7sa/video-6daf66b13146.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/webgl-solar-comparison-1xvg7sa/poster-debcb512380c.jpg",
+          "mediaKey": "9v24h9hpef1i1",
+          "durationSeconds": 68.5,
+          "sourceUrl": "https://v.redd.it/9v24h9hpef1i1/HLSPlaylist.m3u8",
+          "sha256": "6daf66b131463d2abe93a9a38cf658f8cb7d5d9b1e24d2edefa4342dffdc4c15",
+          "posterSha256": "debcb512380c37b1d9e6b4693b2834ef33cffcac33d05f244e985b721919052f",
+          "bytes": 5486330,
+          "posterBytes": 71800,
+          "hasAudio": false,
+          "width": 1280,
+          "height": 584
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/webgl-solar-comparison-1xvg7sa/poster-debcb512380c.jpg"
+    },
+    {
+      "id": "procedural-horse-comparison-1xurhf4",
+      "title": {
+        "en": "Procedural horse: model comparison",
+        "zh": "程序化马匹：模型对比",
+        "ja": "コードで作る馬：モデル比較"
+      },
+      "category": "animation",
+      "model": "Qwen4-Max-Preview",
+      "creator": "migsperez",
+      "sourcePlatform": "Reddit",
+      "originalPostUrl": "https://www.reddit.com/r/Qwen_AI/comments/1xurhf4/qwen_4_max_preview_vs_deepseek_v41_flash_horse/",
+      "publishedAt": "2026-11-12T22:58:54+00:00",
+      "checkedAt": "2026-11-16",
+      "caseUrl": "https://beatapi.io/prompts/qwen4/procedural-horse-comparison-1xurhf4",
+      "modelEvidence": "creator-reported",
+      "workflow": [
+        "Three.js",
+        "Qoder"
+      ],
+      "promptStatus": "creator-text-verified",
+      "featured": false,
+      "mediaRights": "attributed-gallery-copy",
+      "license": "not-established",
+      "videos": [
+        {
+          "url": "https://cdn.beatapi.io/prompt-gallery/qwen4/procedural-horse-comparison-1xurhf4/video-30101bc5a468.mp4",
+          "posterUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/procedural-horse-comparison-1xurhf4/poster-a4dc2edf7626.jpg",
+          "mediaKey": "ejwcl1hbg91i1",
+          "durationSeconds": 19.434667,
+          "sourceUrl": "https://v.redd.it/ejwcl1hbg91i1/CMAF_720.mp4",
+          "sha256": "30101bc5a46893628956ce1593aca761dec7c15d6bd2bb063a05dc5a86f3c898",
+          "posterSha256": "a4dc2edf76262ed159bf099bc84f96410d29686eca72f327b610956bbadf44af",
+          "bytes": 5881232,
+          "posterBytes": 75071,
+          "hasAudio": true,
+          "width": 1280,
+          "height": 652
+        }
+      ],
+      "previewUrl": "https://cdn.beatapi.io/prompt-gallery/qwen4/procedural-horse-comparison-1xurhf4/poster-a4dc2edf7626.jpg"
     }
   ]
 }

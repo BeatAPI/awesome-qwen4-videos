@@ -1,8 +1,16 @@
 # Source research — 2026-11-16
 
-The first gallery release contains 21 creator cases from X, 22 hosted recordings and 3 creator-published prompts. Search results were reviewed manually: unrelated models, reposts, anonymous-model speculation and generic launch commentary were excluded. Cases retain Max or Max-Preview labels. The six starting points are selected for distinct uses and readable results, not a popularity ranking.
+The expanded gallery contains 100 creator cases (97 from X and 3 from Reddit), 101 hosted recordings and 31 published prompts with attributable source URLs. The initial 21 cases remain; 79 cases were added after reviewing original posts, creator replies and linked prompt files. The added recordings and posters total 456,102,658 bytes. Search results were reviewed manually: unrelated models, reposts, anonymous-model speculation and generic launch commentary were excluded. Cases retain creator-reported Max or Max-Preview labels; an unspecified variant remains unspecified. Comparison recordings are labeled as comparisons, with their original model labels preserved. The six starting points are selected for distinct uses and readable results, not a popularity ranking.
 
-## Reddit candidates
+## Included Reddit cases
+
+- [Interactive sketchbook](https://www.reddit.com/r/Qwen_AI/comments/1xtymff/qwen_4max_preview_vs_gpt_sol_61_max_webdev_test/): separate Qwen recording and original prompt.
+- [Raw WebGL solar-system comparison](https://www.reddit.com/r/Qwen_AI/comments/1xvg7sa/so_i_tried_qwen_4_max_preview_sorry_for_the/): original prompt and three-model comparison recording.
+- [Procedural horse comparison](https://www.reddit.com/r/Qwen_AI/comments/1xurhf4/qwen_4_max_preview_vs_deepseek_v41_flash_horse/): creator-linked benchmark prompt and reference files; audio retained.
+
+Prompts are copied from explicit prompt blocks, author replies or sources explicitly credited as reused. Task summaries are not expanded into invented prompts. Missing prompts display a dash. The 31 records indicate published text, not proof that every follow-up or required input was disclosed.
+
+## Remaining Reddit candidates
 
 Read-only research in r/Qwen_AI verified the following posts. They are research sources, not the gallery's playback destinations. A case enters the main gallery only after its media is archived and its own BeatAPI route is ready.
 

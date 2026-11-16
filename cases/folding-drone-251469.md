@@ -8,6 +8,6 @@
 - Creator: [elvar_official](https://x.com/elvar_official/status/2120537937406251469)
 - Workflow: Qoder
 - Source checked: 2026-11-16
-- Prompt: Complete prompt not verified
+- Prompt: —
 
 The recording is a creator example, not an independent BeatAPI reproduction. Media and prompts retain their original rights; no additional media license is asserted.

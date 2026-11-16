@@ -8,7 +8,7 @@
 - Creator: [seeconvm](https://x.com/seeconvm/status/2120547180670845187)
 - Workflow: Qoder
 - Source checked: 2026-11-16
-- Prompt: Complete prompt not verified
+- Prompt: —
 
 Creator post displayed a paid-partnership label; this is not an independent benchmark. The video watermark says Qoduck; preserve this version uncertainty.
 

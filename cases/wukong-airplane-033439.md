@@ -8,6 +8,6 @@
 - Creator: [leo114119](https://x.com/leo114119/status/2120371909624033439)
 - Workflow: HTML, Qoder
 - Source checked: 2026-11-16
-- Prompt: Complete prompt not verified
+- Prompt: —
 
 The recording is a creator example, not an independent BeatAPI reproduction. Media and prompts retain their original rights; no additional media license is asserted.

@@ -8,6 +8,6 @@
 - Creator: [Pluvio9yte](https://x.com/Pluvio9yte/status/2122250996248449084)
 - Workflow: Blender, Tripo
 - Source checked: 2026-11-16
-- Prompt: Complete prompt not verified
+- Prompt: —
 
 The recording is a creator example, not an independent BeatAPI reproduction. Media and prompts retain their original rights; no additional media license is asserted.

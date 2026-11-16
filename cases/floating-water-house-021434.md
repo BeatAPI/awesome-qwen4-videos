@@ -8,6 +8,6 @@
 - Creator: [NFT_Chen](https://x.com/NFT_Chen/status/2122265524877021434)
 - Workflow: Blender
 - Source checked: 2026-11-16
-- Prompt: Complete prompt not verified
+- Prompt: —
 
 The recording is a creator example, not an independent BeatAPI reproduction. Media and prompts retain their original rights; no additional media license is asserted.
