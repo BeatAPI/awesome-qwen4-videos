@@ -2,7 +2,7 @@
 
 用千问 4 制作的动画、建筑与三维场景。点击封面，在 BeatAPI 观看。
 
-**[观看全部案例 →](https://beatapi.io/zh/qwen4-videos?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos)** · [English](README.md) · **100 个案例 · 101 段视频 · 31 条公开提示词**
+**[观看全部案例 →](https://beatapi.io/zh/qwen4-videos?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos)** · [千问 4 API](https://beatapi.io/zh/qwen4-api?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos) · [English](README.md) · **100 个案例 · 101 段视频 · 31 条公开提示词**
 
 <a id="highlights"></a>
 

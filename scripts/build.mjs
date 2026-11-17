@@ -1,5 +1,5 @@
 // [INPUT]: Reviewed creator cases and original prompts in cases/.
-// [OUTPUT]: Bilingual README with a compact opening, immediate highlights, grouped cases and owned links.
+// [OUTPUT]: Bilingual README with a compact opening, immediate highlights, grouped cases and owned gallery/API links.
 // [POS]: Deterministic repository publishing pipeline; never fetches or invents media.
 // [PROTOCOL]: Update cases, verify original sources, sync the website, then run npm test.
 import assert from 'node:assert/strict';
@@ -75,7 +75,7 @@ for(const zh of [false,true]){
 
 ${intro}
 
-**[${zh?'观看全部案例':'Watch all cases'} →](${owned('/qwen4-videos',zh)})** · [${zh?'English':'中文'}](${zh?'README.md':'README.zh-CN.md'}) · ${counts}
+**[${zh?'观看全部案例':'Watch all cases'} →](${owned('/qwen4-videos',zh)})** · [${zh?'千问 4 API':'Qwen 4 API'}](${owned('/qwen4-api',zh)}) · [${zh?'English':'中文'}](${zh?'README.md':'README.zh-CN.md'}) · ${counts}
 
 <a id="highlights"></a>
 

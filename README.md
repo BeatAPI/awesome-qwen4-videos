@@ -2,7 +2,7 @@
 
 Animations, architecture and 3D worlds made with Qwen 4. Click a cover to watch on BeatAPI.
 
-**[Watch all cases →](https://beatapi.io/qwen4-videos?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos)** · [中文](README.zh-CN.md) · **100 cases · 101 videos · 31 published prompts**
+**[Watch all cases →](https://beatapi.io/qwen4-videos?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos)** · [Qwen 4 API](https://beatapi.io/qwen4-api?utm_source=github&utm_medium=gallery&utm_campaign=awesome-qwen4-videos) · [中文](README.zh-CN.md) · **100 cases · 101 videos · 31 published prompts**
 
 <a id="highlights"></a>
 
